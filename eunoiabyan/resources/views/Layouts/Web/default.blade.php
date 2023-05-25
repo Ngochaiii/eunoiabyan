@@ -18,9 +18,9 @@
 
     <meta property="og:type" content="website">
     <meta property="og:title" content="EUNOIA">
-    <meta property="og:image" content="../theme.hstatic.net/200000685745/1001041408/14/share_fb_home6704.jpg?v=44">
+    <meta property="og:image" content="{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/share_fb_home6704.jpg?v=44')}}">
     <meta property="og:image:secure_url"
-        content="../theme.hstatic.net/200000685745/1001041408/14/share_fb_home6704.jpg?v=44">
+        content="{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/share_fb_home6704.jpg?v=44')}}">
 
     <meta property="og:description" content>
     <meta property="og:url" content="index.html">

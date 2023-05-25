@@ -1,60 +1,97 @@
-<link rel="icon"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/favicon6704.png?v=44" type="image/x-icon') }}" />
-<link rel="dns-prefetch" href="index.html">
-<link rel="dns-prefetch" href="http://hstatic.net/">
-<link rel="dns-prefetch" href="http://theme.hstatic.net/">
-<link rel="dns-prefetch" href="http://file.hstatic.net/">
-<link rel="dns-prefetch" href="http://stats.hstatic.net/">
-<link rel="dns-prefetch" href="http://www.google-analytics.com/">
-<link rel="dns-prefetch" href="http://www.googletagmanager.com/">
-<link rel="dns-prefetch" href="http://www.google.com/">
-<link rel="dns-prefetch" href="http://fonts.gstatic.com/">
-<link rel="dns-prefetch" href="http://fonts.googleapis.com/">
-<link rel="dns-prefetch" href="http://www.facebook.com/">
-<link rel="dns-prefetch" href="http://connect.facebook.net/">
-<link rel="dns-prefetch" href="http://static.ak.facebook.com/">
-<link rel="dns-prefetch" href="http://static.ak.fbcdn.net/">
-<link rel="dns-prefetch" href="http://s-static.ak.facebook.com/">
-<link rel="preload" href="http://theme.hstatic.net/200000685745/1001041408/14/mulish-regular.ttf?v=44" as="font"
-    type="font/ttf" crossorigin="anonymous">
-<link rel="preload" href="http://theme.hstatic.net/200000685745/1001041408/14/mulish-bold.ttf?v=44" as="font"
-    type="font/ttf" crossorigin="anonymous">
+<link rel="icon" href="{{ asset('assets/theme/200000685745/1001041408/14/favicon6704.png') }}" type="image/x-icon" />
+<link rel="dns-prefetch" href="https://eunoiabyan.com">
+<link rel="dns-prefetch" href="{{ asset('assets/hstatic.net') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/theme/') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/file/') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/stats/') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/www.google-analytics.com/') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/www.googletagmanager.com/') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/www.google.com') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/fonts.gstatic.com') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/fonts.googleapis.com') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/www.facebook.com') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/connect.facebook.net') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/static.ak.facebook.com') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/static.ak.fbcdn.net') }}">
+<link rel="dns-prefetch" href="{{ asset('assets/s-static.ak.facebook.com') }}">
+{{-- <!--
+<link rel="preload" as='style' type="text/css" href="{{ asset('assets/theme/200000685745/1001041408/14/main6704.css') }}" />
+--> --}}
 <link rel="preload" as='style' type="text/css"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/index6704.css?v=44') }}">
+    href="{{ asset('assets/theme/200000685745/1001041408/14/index6704.css') }}">
 <link rel="preload" as='style' type="text/css"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/responsive6704.css?v=44') }}">
+    href="{{ asset('assets/theme/200000685745/1001041408/14/bootstrap-4-3-min6704.css') }}">
 <link rel="preload" as='style' type="text/css"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/product-infor-style6704.css?v=44') }}">
+    href="{{ asset('assets/theme/200000685745/1001041408/14/responsive6704.css') }}">
 <link rel="preload" as='style' type="text/css"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/quickviews-popup-cart6704.css?v=44') }}">
+    href="{{ asset('assets/theme/200000685745/1001041408/14/product-infor-style6704.css') }}">
+<link rel="preload" as='style' type="text/css"
+    href="{{ asset('assets/theme/200000685745/1001041408/14/quickviews-popup-cart6704.css') }}">
 
-<link rel="preload" as="image"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/slider_1_large6704.jpg?v=44') }}"
-    media="screen and (max-width: 480px)">
-<link rel="preload" as="image"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/slider_16704.jpg?v=44') }}"
-    media="screen and (min-width: 481px)">
-<link rel="stylesheet"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/bootstrap-4-3-min6704.css?v=44') }}">
+<link rel="stylesheet" href="{{ asset('assets/theme/200000685745/1001041408/14/bootstrap-4-3-min6704.css') }}">
+<script type="text/javascript" src="{{ asset('assets/translate/translate_a/elementa0d8.js') }}" alt="Translate">
+</script>
+<style>
+    :root {
+        --text-color: #000000;
+        --body-background: #F8F8F8;
+        --text-secondary-color: #666666;
+        --primary-color: #080808;
+        --secondary-color: #292929;
+        --price-color: #66b1d0;
+        --subheader-background: #e5677d;
+        --subheader-color: #f9f9f6;
+        --header-category-bg: #a50a06;
+        --header-category-color: #fff3f4;
+        --label-background: #d84144;
+        --label-color: #ffffff;
+        --footer-bg: #2e2e2e;
+        --footer-color: #ffffff;
+        --show-loadmore: none !important;
+        --order-loadmore: -1 !important;
+        --sale-pop-color: #d82e4d;
+        --addtocart-bg: #66b1d0;
+        --addtocart-text-color: #ffffff;
+        --cta-color: #000000;
+        --section-coupon-bg: #ee2c2c;
+        --coupon-title-color: #F58A20;
+        --coupon-button-color: #F58A20;
+        --col-menu: 4;
+        --border-color: #f1f1f1;
+        --link-color: #2F80ED;
+        --coupon-code-background: #fde0e0;
+        --coupon-lite-border: #dc2b2b;
+        --product-promotion-bg: #f33828;
+        --policies-bg: #ffffff;
+        --policies-color: #050000;
+    }
 
-<link href='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/quickviews-popup-cart6704.css?v=44') }}'
-    rel='stylesheet' type='text/css' media='all' />
-<link href='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/index6704.css?v=44') }}' rel='stylesheet'
+    .modal-scrollbar-measure {
+        display: none;
+    }
+
+
+
+    @font-face {
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url('https://file.hstatic.net/200000525857/file/mulish-semibold_ab8e949db9544939bc2500452db518f3.ttf') format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Mulish';
+        font-style: normal;
+        font-weight: 800;
+        font-display: swap;
+        src: url('https://file.hstatic.net/200000525857/file/mulish-bold_895d17b8bdac41c19dcf238af2e83fc0.ttf') format('truetype');
+    }
+</style>
+<link href="{{ asset('assets/theme/200000685745/1001041408/14/main6704.css') }}" rel="stylesheet" />
+
+<link href='{{ asset('assets/theme/200000685745/1001041408/14/product-infor-style6704.css') }}' rel='stylesheet'
     type='text/css' media='all' />
-<link rel="preload" as="script"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/jquery6704.js?v=44') }}" />
-<link href='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/responsive6704.css?v=44') }}'
-    rel='stylesheet' type='text/css' media='all' />
-<link rel="preload" as='style' type="text/css"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/header6704.css?v=44') }}">
-<link rel="stylesheet" href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/header6704.css?v=44') }}">
-<link rel="stylesheet" href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/sales-pop6704.css?v=44') }}"
-    media="print" onload="this.media='all'">
-<link href='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/sales-pop6704.css?v=44') }}' rel='stylesheet'
-    type='text/css' media='all' />
-<link rel="preload" as='style' type="text/css"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/header6704.css?v=44') }}">
-<link rel="stylesheet" href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/header6704.css?v=44') }}">
 <style>
     .swatch-element {
         position: relative;
@@ -85,7 +122,7 @@
     }
 
     .swatch-element.color .trang.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_16704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_16704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -94,7 +131,7 @@
     }
 
     .swatch-element.color .den.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_26704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_26704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -103,7 +140,7 @@
     }
 
     .swatch-element.color .hong.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_36704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_36704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -112,7 +149,7 @@
     }
 
     .swatch-element.color .cam.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_46704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_46704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -121,7 +158,7 @@
     }
 
     .swatch-element.color .do.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_56704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_56704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -130,7 +167,7 @@
     }
 
     .swatch-element.color .vang.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_66704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_66704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -139,7 +176,7 @@
     }
 
     .swatch-element.color .xam.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_76704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_76704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -148,7 +185,7 @@
     }
 
     .swatch-element.color .xanh.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_86704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_86704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -157,7 +194,7 @@
     }
 
     .swatch-element.color .nude.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_96704.html?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_96704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -166,7 +203,7 @@
     }
 
     .swatch-element.color .tim.image-type {
-        background: url('{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/color_106704.png?v=44')}}') no-repeat center center;
+        background: url(assets/theme/200000685745/1001041408/14/color_106704.png) no-repeat center center;
         background-size: cover;
     }
 
@@ -372,69 +409,16 @@
         font-size: 14px;
     }
 </style>
-<style>
-    :root {
-        --text-color: #000000;
-        --body-background: #F8F8F8;
-        --text-secondary-color: #666666;
-        --primary-color: #080808;
-        --secondary-color: #292929;
-        --price-color: #66b1d0;
-        --subheader-background: #e5677d;
-        --subheader-color: #f9f9f6;
-        --header-category-bg: #a50a06;
-        --header-category-color: #fff3f4;
-        --label-background: #d84144;
-        --label-color: #ffffff;
-        --footer-bg: #2e2e2e;
-        --footer-color: #ffffff;
-        --show-loadmore: none !important;
-        --order-loadmore: -1 !important;
-        --sale-pop-color: #d82e4d;
-        --addtocart-bg: #66b1d0;
-        --addtocart-text-color: #ffffff;
-        --cta-color: #000000;
-        --section-coupon-bg: #ee2c2c;
-        --coupon-title-color: #F58A20;
-        --coupon-button-color: #F58A20;
-        --col-menu: 4;
-        --border-color: #f1f1f1;
-        --link-color: #2F80ED;
-        --coupon-code-background: #fde0e0;
-        --coupon-lite-border: #dc2b2b;
-        --product-promotion-bg: #f33828;
-        --policies-bg: #ffffff;
-        --policies-color: #050000;
-    }
+<link href='{{ asset('assets/theme/200000685745/1001041408/14/quickviews-popup-cart6704.css') }}' rel='stylesheet'
+    type='text/css' media='all' />
 
-    .modal-scrollbar-measure {
-        display: none;
-    }
+<link rel="preload" as="script" href="{{ asset('assets/theme/200000685745/1001041408/14/jquery6704.js') }}" />
+<script src='{{ asset('assets/theme/200000685745/1001041408/14/jquery6704.js') }}' type='text/javascript'></script>
+<link rel="preload" as="script" href="{{ asset('assets/theme/200000685745/1001041408/14/slick-min6704.js') }}" />
+<script src='{{ asset('assets/theme/200000685745/1001041408/14/slick-min6704.js') }}' type='text/javascript'></script>
+<link href='{{ asset('assets/theme/200000685745/1001041408/14/responsive6704.css') }}' rel='stylesheet' type='text/css'
+    media='all' />
 
-    @font-face {
-        font-family: 'Mulish';
-        font-style: normal;
-        font-weight: 400;
-        font-display: swap;
-        src: url(http://theme.hstatic.net/200000685745/1001041408/14/mulish-regular.ttf?v=44) format('truetype');
-    }
-
-    @font-face {
-        font-family: 'Mulish';
-        font-style: normal;
-        font-weight: 700;
-        font-display: swap;
-        src: url('https://file.hstatic.net/200000525857/file/mulish-semibold_ab8e949db9544939bc2500452db518f3.ttf') format('truetype');
-    }
-
-    @font-face {
-        font-family: 'Mulish';
-        font-style: normal;
-        font-weight: 800;
-        font-display: swap;
-        src: url('https://file.hstatic.net/200000525857/file/mulish-bold_895d17b8bdac41c19dcf238af2e83fc0.ttf') format('truetype');
-    }
-</style>
 <script type='text/javascript'>
     //<![CDATA[
     if ((typeof Haravan) === 'undefined') {
@@ -450,7 +434,7 @@
     Haravan.domain = 'eunoiabyan.com';
     //]]>
 </script>
-<script defer src='{{ asset('assets/stats.hstatic.net/beacon.min.js')}}' hrv-beacon-t='200000685745'></script>
+<script defer src='{{ asset('assets/stats.hstatic.net/beacon.min.js') }}' hrv-beacon-t='200000685745'></script>
 <style>
     .grecaptcha-badge {
         visibility: hidden;
@@ -462,7 +446,7 @@
     window.HaravanAnalytics.meta.currency = 'VND';
     var meta = {
         "page": {
-            "pageType": "home"
+            "pageType": "404"
         }
     };
     for (var attr in meta) {
@@ -472,15 +456,15 @@
 </script>
 
 <!--
-                Theme Information
-                --------------------------------------
-                Theme ID: EGA Style
-                Version: v1.2.3_20230201
-                Company: EGANY
-                changelog: //theme.hstatic.net/200000685745/1001041408/14/ega-changelog.js?v=44
-                ---------------------------------------
-            index
-            -->
+Theme Information
+--------------------------------------
+Theme ID: EGA Style
+Version: v1.2.3_20230201
+Company: EGANY
+changelog: //theme/200000685745/1001041408/14/ega-changelo6704g.js
+---------------------------------------
+404
+-->
 
 <script>
     var ProductReviewsAppUtil = ProductReviewsAppUtil || {};
@@ -488,20 +472,4 @@
         name: 'EUNOIA'
     };
 </script>
-<style>
-    @media (max-width: 767px) {
-        .section_brand .row.slick-slider {
-            display: block;
-        }
-    }
-
-    @media (min-width: 991px) {
-        .home-slider__dot-fake.mobile {
-            display: none;
-        }
-
-        .home-slider__dot-fake.desktop {
-            display: flex;
-        }
-    }
-</style>
+<link rel="stylesheet" href="{{asset('css/header.css')}}">

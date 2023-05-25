@@ -11,9 +11,9 @@
                         <a href="collections/all.html" title="Slider 1">
                             <picture>
                                 <source media="(max-width: 480px)"
-                                    srcset="//theme.hstatic.net/200000685745/1001041408/14/slider_1_large.jpg?v=44">
+                                    srcset="//theme/200000685745/1001041408/14/slider_1_large.jpg?v=44">
                                 <img class=" img-fluid mx-auto" loading="lazy"
-                                    src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/slider_16704.jpg?v=44') }}"
+                                    src="{{ asset('assets/theme/200000685745/1001041408/14/slider_16704.jpg?v=44') }}"
                                     width="1920" height="781" alt="Slider 1" />
                             </picture>
                         </a>
@@ -23,9 +23,9 @@
                         <a href="collections/all.html" title="Slider 2">
                             <picture>
                                 <source media="(max-width: 480px)"
-                                    srcset="//theme.hstatic.net/200000685745/1001041408/14/slider_2_large.jpg?v=44">
+                                    srcset="//theme/200000685745/1001041408/14/slider_2_large.jpg?v=44">
                                 <img class=" img-fluid mx-auto" loading="lazy"
-                                    src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/slider_26704.jpg?v=44') }}"
+                                    src="{{ asset('assets/theme/200000685745/1001041408/14/slider_26704.jpg?v=44') }}"
                                     width="1920" height="781" alt="Slider 2" />
                             </picture>
                         </a>
@@ -35,9 +35,9 @@
                         <a href="collections/all.html" title="Slider 3">
                             <picture>
                                 <source media="(max-width: 480px)"
-                                    srcset="//theme.hstatic.net/200000685745/1001041408/14/slider_3_large.jpg?v=44">
+                                    srcset="//theme/200000685745/1001041408/14/slider_3_large.jpg?v=44">
                                 <img class=" img-fluid mx-auto" loading="lazy"
-                                    src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/slider_36704.jpg?v=44') }}"
+                                    src="{{ asset('assets/theme/200000685745/1001041408/14/slider_36704.jpg?v=44') }}"
                                     width="1920" height="781" alt="Slider 3" />
                             </picture>
                         </a>
@@ -179,7 +179,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046875203">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -286,7 +286,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046926704">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -393,7 +393,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046884101">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -500,7 +500,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046884176">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -607,7 +607,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046875496">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -714,7 +714,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046928305">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -873,7 +873,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046953538">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -980,7 +980,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046938743">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -1087,7 +1087,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046935186">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -1194,7 +1194,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046954526">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -1301,7 +1301,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046938352">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -1408,7 +1408,7 @@
             </div>
 
                 <div class="label_product product_gift_label hidden" data-id="1046938563">
-    <img src="//theme.hstatic.net/200000685745/1001041408/14/ega-product-gift.png?v=44" loading='lazy' width='20' height='20' alt="product gift">
+    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
 </div>
         
 </div>
@@ -1499,11 +1499,11 @@
 
                         <picture>
                             <source media="(max-width: 480px)"
-                                srcset="//theme.hstatic.net/200000685745/1001041408/14/section_video_bg_large.jpg?v=44">
+                                srcset="//theme/200000685745/1001041408/14/section_video_bg_large.jpg?v=44">
                             <source media="(max-width: 991px)"
-                                srcset="//theme.hstatic.net/200000685745/1001041408/14/section_video_bg.jpg?v=44">
+                                srcset="//theme/200000685745/1001041408/14/section_video_bg.jpg?v=44">
                             <img class="img-fluid object-contain"
-                                src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/section_video_bg6704.jpg?v=44') }}"
+                                src="{{ asset('assets/theme/200000685745/1001041408/14/section_video_bg6704.jpg?v=44') }}"
                                 width="1170" height="600" loading="lazy">
                         </picture>
                     </a>
@@ -1600,9 +1600,9 @@
                     <a class="imgtext_img" href="collections/all.html">
                         <picture>
                             <source media="(max-width: 991px)"
-                                srcset="//theme.hstatic.net/200000685745/1001041408/14/imgtext_2_img_large.jpg?v=44">
+                                srcset="//theme/200000685745/1001041408/14/imgtext_2_img_large.jpg?v=44">
                             <img loading="lazy" class="img-fluid mx-auto"
-                                src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/imgtext_2_img6704.jpg?v=44') }}"
+                                src="{{ asset('assets/theme/200000685745/1001041408/14/imgtext_2_img6704.jpg?v=44') }}"
                                 width="795" height="475" alt="imgtext_img" />
                         </picture>
                     </a>
@@ -1650,7 +1650,7 @@
                                                                         
             <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
                 <img loading="lazy"
-                     src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/insta_1_img6704.jpg?v=44') }}" 
+                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_1_img6704.jpg?v=44') }}" 
                      alt="insta_1_img.html">
                 <div class="d-flex insta-icon-wrap">
                     <div class="insta-icon">
@@ -1662,7 +1662,7 @@
                                                                                         
             <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
                 <img loading="lazy"
-                     src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/insta_2_img6704.jpg?v=44') }}" 
+                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_2_img6704.jpg?v=44') }}" 
                      alt="insta_2_img.html">
                 <div class="d-flex insta-icon-wrap">
                     <div class="insta-icon">
@@ -1674,7 +1674,7 @@
                                                                                         
             <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
                 <img loading="lazy"
-                     src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/insta_3_img6704.jpg?v=44') }}" 
+                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_3_img6704.jpg?v=44') }}" 
                      alt="insta_3_img.html">
                 <div class="d-flex insta-icon-wrap">
                     <div class="insta-icon">
@@ -1686,7 +1686,7 @@
                                                                                         
             <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
                 <img loading="lazy"
-                     src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/insta_4_img6704.jpg?v=44') }}" 
+                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_4_img6704.jpg?v=44') }}" 
                      alt="insta_4_img.html">
                 <div class="d-flex insta-icon-wrap">
                     <div class="insta-icon">
@@ -1698,7 +1698,7 @@
                                                                                         
             <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
                 <img loading="lazy"
-                     src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/insta_5_img6704.jpg?v=44') }}" 
+                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_5_img6704.jpg?v=44') }}" 
                      alt="insta_5_img.html">
                 <div class="d-flex insta-icon-wrap">
                     <div class="insta-icon">

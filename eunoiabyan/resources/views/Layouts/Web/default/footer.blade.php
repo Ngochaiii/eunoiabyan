@@ -1,4 +1,3 @@
-
 <footer>
     <div class="mid-footer">
         <div class="container">
@@ -6,12 +5,10 @@
                 <div class="col-lg-3">
                     <div class="footer-block footer-click">
 
-                        <a href="index.html" class="logo-wrapper mb-3 d-block ">
+                        <a href="/" class="logo-wrapper mb-3 d-block ">
                             <img loading="lazy"
-                                src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/logo-footer6704.png?v=44') }}"
-                                alt="logo EUNOIA"
-                                width="164"
-                                height="50">
+                                src="{{ asset('assets/theme/200000685745/1001041408/14/logo-footer6704.png?v=44') }}"
+                                alt="logo EUNOIA" width="164" height="50">
                         </a>
 
                         <div class="single-contact">
@@ -24,8 +21,7 @@
                         <div class="single-contact">
                             <i class="fa fa-mobile-alt"></i>
                             <div class="content">
-                                Số điện thoại: <a class="link" title="0868601369"
-                                    href="tel:0868601369">0868601369</a>
+                                Số điện thoại: <a class="link" title="0868601369" href="tel:0868601369">0868601369</a>
                             </div>
                         </div>
                         <div class="single-contact">
@@ -39,11 +35,8 @@
                         <div id="copyright" class="fot_copyright mt-3">
                             <span class="wsp">
                                 © Bản quyền thuộc về
-                                <a href="https://egany.com/"
-                                    rel="nofollow"
-                                    target="_blank">EGANY</a> | Cung cấp bởi <a
-                                    href="https://www.haravan.com/?utm_campaign=poweredby&amp;utm_medium=haravan&amp;utm_source=onlinestore"
-                                    rel="nofollow" title="Haravan" target="_blank">Haravan</a>
+                                <a href="https://egany.com" rel="nofollow" target="_blank">EGANY</a> | Cung cấp bởi <a
+                                    href="javascript:;">Haravan</a>
                             </span>
                         </div>
 
@@ -60,25 +53,23 @@
                                 <ul class="list-menu toggle-mn">
 
                                     <li class="li_menu">
-                                        <a class="link" href="index.html" title="Trang chủ">Trang chủ</a>
+                                        <a class="link" href="/" title="Trang chủ">Trang chủ</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="collections/all.html" title="Sản phẩm">Sản
-                                            phẩm</a>
+                                        <a class="link" href="/collections/all" title="Sản phẩm">Sản phẩm</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="blogs/news.html" title="Blog">Blog</a>
+                                        <a class="link" href="/blogs/news" title="Blog">Blog</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="pages/about-us.html" title="Giới thiệu">Giới
-                                            thiệu</a>
+                                        <a class="link" href="/pages/about-us" title="Giới thiệu">Giới thiệu</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="pages/lien-he.html" title="Liên hệ">Liên hệ</a>
+                                        <a class="link" href="/pages/lien-he" title="Liên hệ">Liên hệ</a>
                                     </li>
 
                                 </ul>
@@ -93,25 +84,23 @@
                                 <ul class="list-menu toggle-mn">
 
                                     <li class="li_menu">
-                                        <a class="link" href="index.html" title="Trang chủ">Trang chủ</a>
+                                        <a class="link" href="/" title="Trang chủ">Trang chủ</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="collections/all.html" title="Sản phẩm">Sản
-                                            phẩm</a>
+                                        <a class="link" href="/collections/all" title="Sản phẩm">Sản phẩm</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="blogs/news.html" title="Blog">Blog</a>
+                                        <a class="link" href="/blogs/news" title="Blog">Blog</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="pages/about-us.html" title="Giới thiệu">Giới
-                                            thiệu</a>
+                                        <a class="link" href="/pages/about-us" title="Giới thiệu">Giới thiệu</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="pages/lien-he.html" title="Liên hệ">Liên hệ</a>
+                                        <a class="link" href="/pages/lien-he" title="Liên hệ">Liên hệ</a>
                                     </li>
 
                                 </ul>
@@ -122,11 +111,9 @@
 
                                 <h3 class="footer-title title-menu">ĐĂNG KÝ NHẬN TIN</h3>
                                 <div class="form_register ">
-                                    <div
-                                        class="custom-input-group mb-3 form_newsletter form_newsletter_customer">
-                                        <form accept-charset='UTF-8'
-                                            action='https://eunoiabyan.com/account/contact'
-                                            class='contact-form' method='post'>
+                                    <div class="custom-input-group mb-3 form_newsletter form_newsletter_customer">
+                                        <form accept-charset='UTF-8' action='/account/contact' class='contact-form'
+                                            method='post'>
                                             <input name='form_type' type='hidden' value='customer'>
                                             <input name='utf8' type='hidden' value='✓'>
                                             <div class="input-group">
@@ -140,7 +127,8 @@
                                                     autocomplete="off">
                                                 <div class="input-group-btn btn-action">
                                                     <button class="h-100 btn text-white button_subscribe subscribe"
-                                                        type="submit" aria-label="Đăng ký nhận tin" name="subscribe">Đăng
+                                                        type="submit" aria-label="Đăng ký nhận tin"
+                                                        name="subscribe">Đăng
                                                         ký</button>
                                                 </div>
 
@@ -153,45 +141,40 @@
                                                     rel="noreferrer">Terms of Service</a> apply.
                                             </div>
 
-                                            <input id='41b341873d2b4e759947630da1aa6b9c'
-                                                name='g-recaptcha-response' type='hidden'><noscript
-                                                src='{{ asset('assets/www.google.com/recaptcha/api4d7a.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-') }}'></noscript><noscript>grecaptcha.ready(function()
+                                            <input id='f597b7cce09b420899aad1925bb56159' name='g-recaptcha-response'
+                                                type='hidden'><noscript
+                                                src='https://www.google.com/recaptcha/api.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-'></noscript><noscript>grecaptcha.ready(function()
                                                 {grecaptcha.execute('6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-',
-                                                {action: 'submit'}).then(function(token) {document.getElementById('41b341873d2b4e759947630da1aa6b9c').value
-                                                = token;});});</noscript></form>
+                                                {action: 'submit'}).then(function(token)
+                                                {document.getElementById('f597b7cce09b420899aad1925bb56159').value
+                                                = token;});});</noscript>
+                                        </form>
                                     </div>
 
                                 </div>
 
-                                <ul
-                                    class="follow_option d-flex flex-wrap align-items-center list-unstyled mt-2">
+                                <ul class="follow_option d-flex flex-wrap align-items-center list-unstyled mt-2">
 
                                     <li>
-                                        <a class="facebook link"
-                                            href="https://www.facebook.com/eunoiabyan.kids/" target="_blank"
-                                            title="Theo dõi Facebook EUNOIA">
-                                            <img
-                                                src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/facebook6704.png?v=44') }}"
+                                        <a class="facebook link" href="https://www.facebook.com/eunoiabyan.kids/"
+                                            target="_blank" title="Theo dõi Facebook EUNOIA">
+                                            <img src="{{ asset('assets/theme/200000685745/1001041408/14/facebook6704.png?v=44') }}"
                                                 loading="lazy" width="32" height="32" alt="facebook" />
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a class="instgram link"
-                                            href="https://www.instagram.com/eunoiabyan/" target="_blank"
-                                            title="Theo dõi instgram EUNOIA">
-                                            <img
-                                                src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/instagram6704.png?v=44') }}"
+                                        <a class="instgram link" href="https://www.instagram.com/eunoiabyan/"
+                                            target="_blank" title="Theo dõi instgram EUNOIA">
+                                            <img src="{{ asset('assets/theme/200000685745/1001041408/14/instagram6704.png?v=44') }}"
                                                 loading="lazy" width="32" height="32" alt="instgram" />
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a class="youtube link"
-                                            href="https://www.youtube.com/@eunoiabyanofficial4371"
+                                        <a class="youtube link" href="https://www.youtube.com/@eunoiabyanofficial4371"
                                             target="_blank" title="Theo dõi youtube EUNOIA">
-                                            <img
-                                                src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/youtube6704.png?v=44') }}"
+                                            <img src="{{ asset('assets/theme/200000685745/1001041408/14/youtube6704.png?v=44') }}"
                                                 loading="lazy" width="36" height="36" alt="youtube" />
                                         </a>
                                     </li>
@@ -199,8 +182,7 @@
                                     <li>
                                         <a class="tiktok link" href="https://www.tiktok.com/@eunoiabyan"
                                             target="_blank" title="Theo dõi tiktok EUNOIA">
-                                            <img
-                                                src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/tiktok6704.png?v=44') }}"
+                                            <img src="{{ asset('assets/theme/200000685745/1001041408/14/tiktok6704.png?v=44') }}"
                                                 loading="lazy" width="36" height="36" alt="tiktok" />
                                         </a>
                                     </li>
@@ -218,14 +200,10 @@
 
                             <div class="trustbadge-wrap mt-4">
                                 <div class="product-trustbadge d-flex flex-wrap align-items-center">
-                                    <a href="collections/all.html"
-                                        target="_blank"
-                                        title="Phương thức thanh toán">
+                                    <a href="/collections/all" target="_blank" title="Phương thức thanh toán">
                                         <img class=" img-fluid" loading="lazy"
-                                            src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/footer_trustbadge6704.png?v=44') }}"
-                                            alt="Phương thức thanh toán"
-                                            width
-                                            height>
+                                            src="{{ asset('assets/theme/200000685745/1001041408/14/footer_trustbadge6704.png?v=44') }}"
+                                            alt="Phương thức thanh toán" width height>
                                     </a>
                                 </div>
                             </div>
@@ -616,12 +594,12 @@
         </symbol>
     </defs>
 </svg> <link rel="preload" as="script"
-    href="{{ asset('assets/hstatic.net/0/0/global/api.jquery.js') }}">
+    href="//hstatic.net/0/0/global/api.jquery.js">
 <link rel="preload" as="script"
-    href="{{ asset('assets/hstatic.net/0/0/global/option_selection.js') }}">
+    href="//hstatic.net/0/0/global/option_selection.js">
 
-<script src='{{ asset('assets/hstatic.net/0/0/global/api.jquery.js') }}' type='text/javascript'></script>
-<script src='{{ asset('assets/hstatic.net/0/0/global/option_selection.js') }}'
+<script src='//hstatic.net/0/0/global/api.jquery.js' type='text/javascript'></script>
+<script src='//hstatic.net/0/0/global/option_selection.js'
     type='text/javascript'></script>
 
 <div id="quick-view-product" class="quickview-product" style="display:none;">
@@ -638,7 +616,7 @@
                                 class="img-product d-block  pos-relative embed-responsive embed-responsive-1by1"
                                 title href="javascript:;">
                                 <img loading="lazy"
-                                    src="{{ asset('assets/mixcdn.egany.com/themes/assets/thumb/large/noimage.gif') }}"
+                                    src="https://mixcdn.egany.com/themes/assets/thumb/large/noimage.gif"
                                     id="product-featured-image-quickview"
                                     class="img-responsive product-featured-image-quickview"
                                     alt="quickview" />
@@ -690,8 +668,7 @@
                         </div>
                     </div>
 
-                    <form action="https://eunoiabyan.com/cart/add" method="post"
-                        enctype="multipart/form-data"
+                    <form action="/cart/add" method="post" enctype="multipart/form-data"
                         class="quick_option variants form-ajaxtocart form-product">
                         <span class="price-product-detail hidden" style="opacity: 0;">
                             <span class></span>
@@ -804,8 +781,7 @@ if (variant && variant.available) {
         $("#quick-view-product .prices .old-price").hide();
                         discountLabel.hide()
         form2.hide();
-    }
-    else{
+    }else{
         productPrice.html(Haravan.formatMoney(variant.price, "0"));
         if ( variant.compare_at_price > variant.price ) {
           comparePrice.html(Haravan.formatMoney(variant.compare_at_price, "0")).show();         
@@ -1099,7 +1075,7 @@ $(document).on('click', '.quick-view', function(e) {
 
             var featured_image = product.featured_image && Haravan.resizeImage(product.featured_image, "large");
             if(featured_image == null){
-                featured_image = '{{ asset('assets/mixcdn.egany.com/themes/assets/thumb/large/noimage.gif') }}';
+                featured_image = 'https://mixcdn.egany.com/themes/assets/thumb/large/noimage.gif';
             }
             // Reset current link quickview and button navigate in Quickview
             setButtonNavQuickview();
@@ -1128,7 +1104,7 @@ $(document).on('click', '.quick-view', function(e) {
             else{
                 quickview.find("#quick-view-product form").show();
                 
-                quickview.find(".price").html(Haravan.formatMoney(product.price, "amount_no_decimals_with_comma_separator₫" ));
+                quickview.find(".price").html(Haravan.formatMoney(product.price, "0" ));
                                                                  
                                                                  }
                                                                  quickview.find(".product-item").attr("id", "product-" + product.id);
@@ -1164,7 +1140,7 @@ $(document).on('click', '.quick-view', function(e) {
                 quickview.find(".view-more").attr('href',product.url);
 
                 if (product.compare_at_price_max > product.price) {
-                                                quickview.find(".old-price").html(Haravan.formatMoney(product.compare_at_price_max, "amount_no_decimals_with_comma_separator₫" )).show();
+                                                quickview.find(".old-price").html(Haravan.formatMoney(product.compare_at_price_max, "0" )).show();
                                                                          let save = product.variants[0].compare_at_price - product.variants[0].price;
                      let savePerCent = Math.ceil(save / product.variants[0].compare_at_price * 100);
                      if(savePerCent > 99){
@@ -1332,7 +1308,7 @@ if (n.images.length > 1 || video_code) {
                         if(u.indexOf("video") > -1 ){
             videoThumb  = true
             
-            var icon_play = "{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/icon-button-play6704.png?v=44') }}";
+            var icon_play = "//theme.hstatic.net/200000685745/1001041408/14/icon-button-play.png?v=44";
             var f = '<li><a href="javascript:void(0)"' + 'data-videocode="' + video_code + '" data-imageid="' + n.id + '"" data-zoom-image="' + u + '" title="title"><img class="video" src="' + u + '" alt="Office World" /><img class="icon-button-play" src="' + icon_play + '" alt="video-play-button" /></a></li>';
                             }else{
             var f = '<li><a href="javascript:void(0)" data-imageid="' + n.id + '"" data-zoom-image="' + u + '" title="title"><img src="' + u + '" alt="Office World" /></a></li>';
@@ -1346,7 +1322,7 @@ if (n.images.length > 1 || video_code) {
         let code = video_code.split('_')[1]
         var u = `https://img.youtube.com/vi/${code}/mqdefault.jpg`
         
-        var icon_play = "{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/icon-button-play6704.png?v=44') }}";
+        var icon_play = "//theme.hstatic.net/200000685745/1001041408/14/icon-button-play.png?v=44";
         var f = '<li><a href="javascript:void(0)"' + 'data-videocode="' + video_code + '" data-imageid="' + n.id + '"" data-zoom-image="' + u + '" title="title"><img class="video" src="' + u + '" alt="Office World" /><img class="icon-button-play" src="' + icon_play + '" alt="video-play-button" /></a></li>';
                         o.prepend(f)
     }
@@ -1828,7 +1804,7 @@ Vui lòng chọn mua thêm sản phẩm
 target="_blank"
 title="Phương thức thanh toán">
 <img class=" img-fluid" loading="lazy"
-     src="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/footer_trustbadge6704.png?v=44') }}" 
+     src="//theme.hstatic.net/200000685745/1001041408/14/footer_trustbadge.png?v=44" 
      alt="Phương thức thanh toán"
      width=""
      height=""
@@ -1913,7 +1889,7 @@ Vui lòng chọn mua thêm sản phẩm
         </div>
         <div class="wrap_popup">
             <div class="title-quantity-popup">
-                <span class="cart_status" onclick="window.location.href='cart.html';">
+                <span class="cart_status" onclick="window.location.href='/cart';">
                     Giỏ hàng của bạn có <span class="cart-popup-count"></span> sản phẩm
                 </span>
             </div>
@@ -1938,7 +1914,7 @@ Vui lòng chọn mua thêm sản phẩm
                             href="javascript:;" onclick="$('#popup-cart').modal('hide');"><span><span>Tiếp
                                     tục mua hàng</span></span></a>
                         <a class="button checkout_ btn-proceed-checkout"
-                            title="Thực hiện thanh toán" href="cart.html"><span>Thực hiện thanh
+                            title="Thực hiện thanh toán" href="/checkout"><span>Thực hiện thanh
                                 toán</span></a>
                     </div>
                 </div>
@@ -2047,7 +2023,7 @@ if (typeof e !== 'undefined') e.preventDefault();
 var $this = $(this);
 var form = $this.parents('form');		
 const callback = (cart) => {
-    location.href = 'cart.html';
+    location.href = '/checkout';
 }
 
 $.ajax({
@@ -2087,7 +2063,7 @@ Vui lòng chọn mua thêm sản phẩm`,
          })
          return;
      } else {
-         location.href = 'cart.html';
+         location.href = '/checkout';
      }
      
 }
@@ -2116,7 +2092,7 @@ $.ajax({
 
         var src = '';
         if(!jqXHR['image'] || (Haravan.resizeImage(jqXHR['image'], 'small') == null || Haravan.resizeImage(jqXHR['image'], 'small') =="null" || Haravan.resizeImage(jqXHR['image'], 'small')) =='') {
-        src= "{{ asset('assets/mixcdn.egany.com/themes/assets/thumb/large/noimage.gif') }}"
+        src= "https://mixcdn.egany.com/themes/assets/thumb/large/noimage.gif"
         }
         else
         {
@@ -2211,7 +2187,7 @@ function getDelivery(){
 if(!$('.ega-delivery').length && window.egaDeliveryValid){
        var head = document.getElementsByTagName('head').item(0);
     var script = document.createElement('script');
-    script.setAttribute('src', '{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/delivery-addon6704.js?v=44') }}');
+    script.setAttribute('src', '//theme.hstatic.net/200000685745/1001041408/14/delivery-addon.js?v=44');
     head.appendChild(script);
    }	
 }
@@ -2328,7 +2304,7 @@ Haravan.updateCartFromForm = function(cart, cart_summary_id, cart_count_id) {
                             link_img0 = Haravan.resizeImage(item.image, 'compact');
                         }
                         if(link_img0=="null" || link_img0 =='' || link_img0 ==null){
-                            link_img0 = "{{ asset('assets/mixcdn.egany.com/themes/assets/thumb/large/noimage.gif') }}";
+                            link_img0 = "https://mixcdn.egany.com/themes/assets/thumb/large/noimage.gif";
                         }
                             if(item.variant_title == 'Default Title'){
                             var ItemDropCart = [{
@@ -2419,7 +2395,7 @@ Haravan.updateCartPageForm = function(cart, cart_summary_id, cart_count_id) {
                             }
                             var link_img1 = Haravan.resizeImage(item.image, 'compact');
                             if(link_img1=="null" || link_img1 =='' || link_img1 ==null){
-                            link_img1 = "{{ asset('assets/mixcdn.egany.com/themes/assets/thumb/large/noimage.gif') }}";
+                            link_img1 = "https://mixcdn.egany.com/themes/assets/thumb/large/noimage.gif";
                             }
                             
                             
@@ -2493,7 +2469,7 @@ Haravan.updateCartPopupForm = function(cart, cart_summary_id, cart_count_id) {
                         jQuery.each(value, function(i, item) {
                             var src = item.image;
                             if(src == null){
-                            src = "{{ asset('assets/mixcdn.egany.com/themes/assets/thumb/large/noimage.gif') }}";
+                            src = "https://mixcdn.egany.com/themes/assets/thumb/large/noimage.gif";
                             }
                             var buttonQty = "";
                             if(item.quantity == '1'){
@@ -2558,7 +2534,7 @@ Haravan.updateCartPageFormMobile = function(cart, cart_summary_id, cart_count_id
                                 if ( item.image != null) {
                                     var src = Haravan.resizeImage(item.image, 'compact');
                                 } else {
-                                var src = "{{ asset('assets/mixcdn.egany.com/themes/assets/thumb/large/noimage.gif') }}";
+                                var src = "https://mixcdn.egany.com/themes/assets/thumb/large/noimage.gif";
                                 }
                                 var ItemCartPageMobile = [{
                                   url: item.url,
@@ -2829,23 +2805,17 @@ $(document).ready(function () {
 </script>
 
 <link rel="preload" as="script"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/index6704.js?v=44') }}" />
-<script
-    src='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/index6704.js?v=44') }}'
-    type='text/javascript'></script>
-
-<link rel="preload" as="script"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/main6704.js?v=44') }}" />
-<script src='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/main6704.js?v=44') }}'
+    href="//theme.hstatic.net/200000685745/1001041408/14/main.js?v=44" />
+<script src='//theme.hstatic.net/200000685745/1001041408/14/main.js?v=44'
     type='text/javascript'></script>
 
 <script
-    src='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/ega-app-combo6704.js?v=44') }}'
+    src='//theme.hstatic.net/200000685745/1001041408/14/ega-app-combo.js?v=44'
     type='text/javascript'></script>
 <link rel="preload" as="script"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/ega-gateway-min6704.js?v=44') }}">
+    href="//theme.hstatic.net/200000685745/1001041408/14/ega-gateway-min.js?v=44">
 <script
-    src='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/ega-gateway-min6704.js?v=44') }}'
+    src='//theme.hstatic.net/200000685745/1001041408/14/ega-gateway-min.js?v=44'
     type='text/javascript'></script>
 <script>
 var cro_show = true,
@@ -2989,8 +2959,8 @@ form: {
 enabled: false,
 }
 };
-let crAddonScript= "{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/ega-addon-cr-button-min6704.js?v=44') }}"
-EGACRAddonSettings.general.currentTemplate = 'index';
+let crAddonScript= "//theme.hstatic.net/200000685745/1001041408/14/ega-addon-cr-button-min.js?v=44"
+EGACRAddonSettings.general.currentTemplate = '404';
 EGACRAddonSettings.general.platform  = Haravan;
 window.EGACRAddonSettings.general.moneyFormat = '0'
 const platform = window.EGACRAddonSettings.general.platform
@@ -3037,11 +3007,11 @@ $(window).on('scroll click mousemove touchstart',()=>{
 </div>
 
 <link rel="stylesheet"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/sales-pop6704.css?v=44') }}"
+    href="//theme.hstatic.net/200000685745/1001041408/14/sales-pop.css?v=44"
     media="print" onload="this.media='all'">
 
 <noscript><link
-        href='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/sales-pop6704.css?v=44') }}'
+        href='//theme.hstatic.net/200000685745/1001041408/14/sales-pop.css?v=44'
         rel='stylesheet' type='text/css' media='all' /></noscript>
 <div id="ega-sale-pop" class="sales-pop hidden">
     <div class="sale-pop-wrap">
@@ -3058,7 +3028,7 @@ let timePerPop = 15000;
 let timeDelay = 30000;
 let salesPopDesc = `Khách hàng [name] tại [address] vừa mua sản phẩm cách đây [time]`;
 let count = 0;
-let fakerScript ="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/faker6704.js?v=44') }}"
+let fakerScript ="//theme.hstatic.net/200000685745/1001041408/14/faker.js?v=44"
 let customerGender = undefined;
 
 salePopArr = [			]	
@@ -3070,7 +3040,13 @@ function showSalePop() {
         salePopProduct = salePopArr[pdRanIndex],
         randomMin = `${Math.floor(Math.random() * 59) + 1} phút`;
     const name= `${faker.name.lastName(customerGender)} ${faker.name.firstName(customerGender)}`
-    const phone = `${faker.phone.phoneNumber().replace(' ')%7d%60const%20address%20%3d%20faker.random.arrayElement(faker.locales.vi.address.city_root)const%20desc%20%3d%20salesPopDesc.replace(%60%5bname%5d%60%2c%20name).replace(%60%5bphone%5d%60%2c%20%60xxx%24%7bphone.substr(phone.length%20-%208)%7d%60).replace(%60%5b'[address]', address)
+    const phone = `${faker.phone.phoneNumber().replace(' ')}`
+    const address = faker.random.arrayElement(faker.locales.vi.address.city_root)
+    const desc = salesPopDesc
+    .replace(`[name]`, name)
+    .replace(`[phone]`, `xxx${phone.substr(phone.length - 8)}`)
+    .replace(`[time]`, randomMin)
+    .replace('[address]', address)
     const salesPopContent = `	
     <div class="sale-pop-img">
     <img src="${salePopProduct.img_url}" class="img-fluid" loading="lazy" alt="${salePopProduct.title}" width="80" height="80"/>
@@ -3132,11 +3108,11 @@ $('#ega-sale-pop').removeClass('hidden');
 </script>
 
 <link rel="stylesheet"
-    href="{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/addthis-sharing6704.css?v=44') }}"
+    href="//theme.hstatic.net/200000685745/1001041408/14/addthis-sharing.css?v=44"
     media="print" onload="this.media='all'">
 
 <noscript><link
-        href='{{ asset('assets/theme.hstatic.net/200000685745/1001041408/14/addthis-sharing6704.css?v=44') }}'
+        href='//theme.hstatic.net/200000685745/1001041408/14/addthis-sharing.css?v=44'
         rel='stylesheet' type='text/css' media='all' /></noscript>
 <div class="addThis_listSharing ">
 
@@ -3154,7 +3130,7 @@ $('#ega-sale-pop').removeClass('hidden');
         <li class="addThis_item">
             <a class="addThis_item--icon" href="tel:0868601369" rel="nofollow">
                 <img class="img-fluid"
-                    src="http://theme.hstatic.net/200000685745/1001041408/14/addthis-phone.svg?v=44"
+                    src="//theme.hstatic.net/200000685745/1001041408/14/addthis-phone.svg?v=44"
                     alt="Gọi ngay cho chúng tôi" loading="lazy" width="44" height="44" />
                 <span class="tooltip-text">Gọi ngay cho chúng tôi</span>
             </a>
@@ -3163,7 +3139,7 @@ $('#ega-sale-pop').removeClass('hidden');
             <a class="addThis_item--icon" href="https://zalo.me/1527872632788362305"
                 target="_blank" rel="nofollow">
                 <img class="img-fluid"
-                    src="http://theme.hstatic.net/200000685745/1001041408/14/addthis-zalo.svg?v=44"
+                    src="//theme.hstatic.net/200000685745/1001041408/14/addthis-zalo.svg?v=44"
                     alt="Gọi ngay cho chúng tôi" loading="lazy" width="44" height="44" />
                 <span class="tooltip-text">Chat với chúng tôi qua Zalo</span>
             </a>
@@ -3200,7 +3176,7 @@ $(window).one(' mousemove touchstart scroll', () => {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
-        js.src = '{{ asset('assets/connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js') }}';
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 })
@@ -3243,4 +3219,3 @@ notFound: 'Không tìm thấy kết quả ',
 textFrom: '',
 textShowAll: 'Xem thêm sản phẩm có chứa '
 }
-</script>
