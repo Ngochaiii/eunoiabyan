@@ -116,654 +116,390 @@
                                 <div class="item_product_main item_skeleton">
                                 </div>
                             </div>
-
-                            <script type="text/x-custom-template" data-template="tab-section">
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-        
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046875203" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/danbi-dress" title="Danbi Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0514_b177025fb31f4c9f81a4474229e02937.jpg" alt="Danbi Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0509_d82f9aefadfe404fbee9fb50d7e08022.jpg" alt="Danbi Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105798098" />
-<div class="action-bar">
-                <a href="/products/danbi-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/danbi-dress" data-handle="danbi-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046875203">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/danbi-dress" title="Danbi Dress">Danbi Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046875203">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,790,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-        
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046926704" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/danmi-dress" title="Danmi Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0961_13e9055bcdd3433f9953b40d41d1387d.jpg" alt="Danmi Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0987_a338b3a720b949d6825d8c124c55b0ae.jpg" alt="Danmi Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105959808" />
-<div class="action-bar">
-                <a href="/products/danmi-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/danmi-dress" data-handle="danmi-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046926704">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/danmi-dress" title="Danmi Dress">Danmi Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046926704">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,690,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046884101" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/hana-dress" title="Hana Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid1164_d9c2388e5d97441c8b1a6bd44eb5fc11.jpg" alt="Hana Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid1159_d292e1d0a30241c9ad05b53eae5b22e8.jpg" alt="Hana Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105838533" />
-<div class="action-bar">
-                <a href="/products/hana-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/hana-dress" data-handle="hana-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046884101">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/hana-dress" title="Hana Dress">Hana Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046884101">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,790,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046884176" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/harin" title="Harin Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid1253_909fe808fe6a4bceada44515ab4cd79f.jpg" alt="Harin Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid1218_5ec9bfa1296445b1b16532c9a369165a.jpg" alt="Harin Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105838710" />
-<div class="action-bar">
-                <a href="/products/harin" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/harin" data-handle="harin" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046884176">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/harin" title="Harin Dress">Harin Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046884176">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,790,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-        
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046875496" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/jennie-dress" title="Jennie Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0730_f548d71fe5c04c468234e537fa96c76f.jpg" alt="Jennie Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0702_46e382b1d1894ab4bf12349cf493c360.jpg" alt="Jennie Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105798880" />
-<div class="action-bar">
-                <a href="/products/jennie-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/jennie-dress" data-handle="jennie-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046875496">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/jennie-dress" title="Jennie Dress">Jennie Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046875496">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,890,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-        
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046928305" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/lisa-dress" title="Lisa Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0648_9ee2583cab1d444fbedb5b65bf78ba4a.jpg" alt="Lisa Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/kid0641_cd7e6bce0fe04ee5bbae5c2095c44c7b.jpg" alt="Lisa Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105962568" />
-<div class="action-bar">
-                <a href="/products/lisa-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/lisa-dress" data-handle="lisa-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046928305">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/lisa-dress" title="Lisa Dress">Lisa Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046928305">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,990,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            </script>
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046875203" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/danbi-dress" title="Danbi Dress">
+
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0514_b177025fb31f4c9f81a4474229e02937.jpg"
+                                                    alt="Danbi Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0509_d82f9aefadfe404fbee9fb50d7e08022.jpg"
+                                                    alt="Danbi Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105798098" />
+                                            <div class="action-bar">
+                                                <a href="/products/danbi-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/danbi-dress" data-handle="danbi-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046875203">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/danbi-dress" title="Danbi Dress">Danbi
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046875203"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,790,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046926704" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/danmi-dress" title="Danmi Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0961_13e9055bcdd3433f9953b40d41d1387d.jpg"
+                                                    alt="Danmi Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0987_a338b3a720b949d6825d8c124c55b0ae.jpg"
+                                                    alt="Danmi Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105959808" />
+                                            <div class="action-bar">
+                                                <a href="/products/danmi-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/danmi-dress" data-handle="danmi-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046926704">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/danmi-dress" title="Danmi Dress">Danmi
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046926704"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,690,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046884101" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/hana-dress" title="Hana Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid1164_d9c2388e5d97441c8b1a6bd44eb5fc11.jpg"
+                                                    alt="Hana Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid1159_d292e1d0a30241c9ad05b53eae5b22e8.jpg"
+                                                    alt="Hana Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105838533" />
+                                            <div class="action-bar">
+                                                <a href="/products/hana-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/hana-dress" data-handle="hana-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046884101">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/hana-dress" title="Hana Dress">Hana
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046884101"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,790,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046884176" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/harin" title="Harin Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid1253_909fe808fe6a4bceada44515ab4cd79f.jpg"
+                                                    alt="Harin Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid1218_5ec9bfa1296445b1b16532c9a369165a.jpg"
+                                                    alt="Harin Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105838710" />
+                                            <div class="action-bar">
+                                                <a href="/products/harin"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/harin" data-handle="harin"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046884176">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/harin" title="Harin Dress">Harin
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046884176"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,790,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046875496" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/jennie-dress" title="Jennie Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0730_f548d71fe5c04c468234e537fa96c76f.jpg"
+                                                    alt="Jennie Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0702_46e382b1d1894ab4bf12349cf493c360.jpg"
+                                                    alt="Jennie Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105798880" />
+                                            <div class="action-bar">
+                                                <a href="/products/jennie-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/jennie-dress" data-handle="jennie-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046875496">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/jennie-dress"
+                                                    title="Jennie Dress">Jennie Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046875496"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,890,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046928305" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/lisa-dress" title="Lisa Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0648_9ee2583cab1d444fbedb5b65bf78ba4a.jpg"
+                                                    alt="Lisa Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/kid0641_cd7e6bce0fe04ee5bbae5c2095c44c7b.jpg"
+                                                    alt="Lisa Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105962568" />
+                                            <div class="action-bar">
+                                                <a href="/products/lisa-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/lisa-dress" data-handle="lisa-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046928305">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/lisa-dress" title="Lisa Dress">Lisa
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046928305"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,990,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
                         </div>
-
                         <div class="text-center mt-3 col-12">
                             <a href="collections/bst-nang-tho.html" title="Xem tất cả"
                                 class="btn btn-main btn-icon btn-pill">
@@ -811,651 +547,393 @@
                                 </div>
                             </div>
 
-                            <script type="text/x-custom-template" data-template="tab-section">
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
 
 
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046953538" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/akira-dress" title="Akira Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/10._akira_dress_000003_9b72dc51663144d3b7324d32af752d4e.jpg"
+                                                    alt="Akira Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/10._akira_dress_000007_e7170cd6779b487e90c1d1fea7bc5940.jpg"
+                                                    alt="Akira Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1106013731" />
+                                            <div class="action-bar">
+                                                <a href="/products/akira-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/akira-dress" data-handle="akira-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046953538">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/akira-dress" title="Akira Dress">Akira
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046953538"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,799,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046938743" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/aliana-dress" title="Aliana Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/9._aliana_dress_000003_5654cfd5c8734b05b1741a8a84a84584.jpg"
+                                                    alt="Aliana Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/9._aliana_dress_000006_c95a397ef7dc498ead1006327c52f07a.jpg"
+                                                    alt="Aliana Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105982978" />
+                                            <div class="action-bar">
+                                                <a href="/products/aliana-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/aliana-dress" data-handle="aliana-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046938743">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/aliana-dress"
+                                                    title="Aliana Dress">Aliana Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046938743"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">2,099,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+
+
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046935186" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/aydin-dress" title="Aydin Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/aydin_1_1152343e149e462e8e5967a81fb72e05.jpg"
+                                                    alt="Aydin Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/aydin_2_21c32bdb0a754eccb4d1147960372125.jpg"
+                                                    alt="Aydin Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105975714" />
+                                            <div class="action-bar">
+                                                <a href="/products/aydin-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/aydin-dress" data-handle="aydin-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046935186">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/aydin-dress" title="Aydin Dress">Aydin
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046935186"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,599,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046954526" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/elida-dress" title="Elida Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/11._elida_dress_000003_75ae7fd11c4d45e895712cf14b0b5b9f.jpg"
+                                                    alt="Elida Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/11._elida_dress_000006_5e92987694d149219d55e88fce871c9d.jpg"
+                                                    alt="Elida Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1106017568" />
+                                            <div class="action-bar">
+                                                <a href="/products/elida-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/elida-dress" data-handle="elida-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046954526">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/elida-dress" title="Elida Dress">Elida
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046954526"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,799,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046938352" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/galina-dress" title="Galina Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/6._galina_dress_000003_5068ec51b18745eeb8cfd0eb97ad3fd3.jpg"
+                                                    alt="Galina Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/6._galina_dress_000007_0bff18dbaad54201b7f9628c87a20e5c.jpg"
+                                                    alt="Galina Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105982277" />
+                                            <div class="action-bar">
+                                                <a href="/products/galina-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/galina-dress" data-handle="galina-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046938352">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/galina-dress"
+                                                    title="Galina Dress">Galina Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046938352"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,699,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-12 col-xl-15 product-col">
+                                <div class="item_product_main">
+                                    <form action="/cart/add" method="post" class="variants product-action"
+                                        data-id="product-actions-1046938563" enctype="multipart/form-data">
+                                        <div class="product-thumbnail pos-relative">
+                                            <a class="image_thumb pos-relative embed-responsive embed-responsive-2by3"
+                                                href="/products/irina-dress" title="Irina Dress">
+                                                <img loading="lazy" class='img-fetured' width="480" height="480"
+                                                    style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/7._irina_dress_000003_b68608bded634d14b224f77a3ddc5592.jpg"
+                                                    alt="Irina Dress">
+                                                <img loading="lazy"
+                                                    class='product-thumbnail__img product-thumbnail__img--secondary'
+                                                    width="480" height="480" style="--image-scale: 1;"
+                                                    src="https://product.hstatic.net/200000685745/product/7._irina_dress_000007_20cb6c5dc2c34c949674209b744b8078.jpg"
+                                                    alt="Irina Dress">
+
+                                            </a>
+                                            <input type="hidden" name="id" value="1105982575" />
+                                            <div class="action-bar">
+                                                <a href="/products/irina-dress"
+                                                    class="action-child btn-circle btn-views btn_view btn right-to m-0">
+                                                    <i class="fas fa-shopping-cart"></i>
+                                                    <span class="action-name">Tùy chọn</span>
+                                                </a>
+
+                                                <a href="/products/irina-dress" data-handle="irina-dress"
+                                                    class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
+                                                    <i class="fas fa-eye"></i>
+                                                    <span class="action-name">Xem nhanh</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="label_product product_gift_label hidden" data-id="1046938563">
+                                                <img src="{{ asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44') }}"
+                                                    loading='lazy' width='20' height='20' alt="product gift">
+                                            </div>
+
+                                        </div>
+                                        <div class="product-info">
+
+                                            <span class="product-vendor">Eunoia by AN</span>
+                                            <div class="product-name">
+                                                <a class="link" href="/products/irina-dress" title="Irina Dress">Irina
+                                                    Dress</a>
+                                            </div>
+                                            <div class="product-rating">
+                                                <div class="haravan-product-reviews-badge" data-id="1046938563"> </div>
+
+                                            </div>
+
+                                            <div class="product-item-cta position-relative">
+                                                <div class="price-box">
+                                                    <span class="price">1,799,000₫</span>
+                                                </div>
+                                            </div>
+
+                                            <div class="item-color-chosen">
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
 
 
-
-
-        
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046953538" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/akira-dress" title="Akira Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/10._akira_dress_000003_9b72dc51663144d3b7324d32af752d4e.jpg" alt="Akira Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/10._akira_dress_000007_e7170cd6779b487e90c1d1fea7bc5940.jpg" alt="Akira Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1106013731" />
-<div class="action-bar">
-                <a href="/products/akira-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/akira-dress" data-handle="akira-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046953538">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/akira-dress" title="Akira Dress">Akira Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046953538">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,799,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046938743" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/aliana-dress" title="Aliana Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/9._aliana_dress_000003_5654cfd5c8734b05b1741a8a84a84584.jpg" alt="Aliana Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/9._aliana_dress_000006_c95a397ef7dc498ead1006327c52f07a.jpg" alt="Aliana Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105982978" />
-<div class="action-bar">
-                <a href="/products/aliana-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/aliana-dress" data-handle="aliana-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046938743">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/aliana-dress" title="Aliana Dress">Aliana Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046938743">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">2,099,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046935186" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/aydin-dress" title="Aydin Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/aydin_1_1152343e149e462e8e5967a81fb72e05.jpg" alt="Aydin Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/aydin_2_21c32bdb0a754eccb4d1147960372125.jpg" alt="Aydin Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105975714" />
-<div class="action-bar">
-                <a href="/products/aydin-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/aydin-dress" data-handle="aydin-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046935186">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/aydin-dress" title="Aydin Dress">Aydin Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046935186">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,599,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046954526" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/elida-dress" title="Elida Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/11._elida_dress_000003_75ae7fd11c4d45e895712cf14b0b5b9f.jpg" alt="Elida Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/11._elida_dress_000006_5e92987694d149219d55e88fce871c9d.jpg" alt="Elida Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1106017568" />
-<div class="action-bar">
-                <a href="/products/elida-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/elida-dress" data-handle="elida-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046954526">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/elida-dress" title="Elida Dress">Elida Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046954526">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,799,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046938352" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/galina-dress" title="Galina Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/6._galina_dress_000003_5068ec51b18745eeb8cfd0eb97ad3fd3.jpg" alt="Galina Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/6._galina_dress_000007_0bff18dbaad54201b7f9628c87a20e5c.jpg" alt="Galina Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105982277" />
-<div class="action-bar">
-                <a href="/products/galina-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/galina-dress" data-handle="galina-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046938352">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/galina-dress" title="Galina Dress">Galina Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046938352">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,699,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            <div class="col-12 col-xl-15 product-col">
-                <div class="item_product_main">
-                    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-<form action="/cart/add" method="post" class="variants product-action" data-id="product-actions-1046938563" enctype="multipart/form-data">
-<div class="product-thumbnail pos-relative">
-
-
-
-
-<a class="image_thumb pos-relative embed-responsive embed-responsive-2by3" href="/products/irina-dress" title="Irina Dress">
-    
-
-
-
-
-
-
-
-
-    <img loading="lazy" 
-         class='img-fetured'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/7._irina_dress_000003_b68608bded634d14b224f77a3ddc5592.jpg" alt="Irina Dress">
-                <img loading="lazy"
-         class='product-thumbnail__img product-thumbnail__img--secondary'
-         width="480"
-         height="480"
-         style="--image-scale: 1;"
-         src="https://product.hstatic.net/200000685745/product/7._irina_dress_000007_20cb6c5dc2c34c949674209b744b8078.jpg" alt="Irina Dress">
-                
-</a>
-        <input type="hidden" name="id" value="1105982575" />
-<div class="action-bar">
-                <a href="/products/irina-dress" class="action-child btn-circle btn-views btn_view btn right-to m-0">
-        <i class="fas fa-shopping-cart"></i>
-        <span class="action-name">Tùy chọn</span>
-    </a>
-                
-                <a href="/products/irina-dress" data-handle="irina-dress" class="action-child xem_nhanh btn-circle btn-views btn_view btn right-to quick-view">
-        <i class="fas fa-eye"></i>
-        <span class="action-name">Xem nhanh</span>
-    </a>
-            </div>
-
-                <div class="label_product product_gift_label hidden" data-id="1046938563">
-    <img src="{{asset('assets/theme/200000685745/1001041408/14/ega-product-gift6704.png?v=44')}}" loading='lazy' width='20' height='20' alt="product gift">
-</div>
-        
-</div>
-<div class="product-info">
-
-<span class="product-vendor">Eunoia by AN</span>
-                <div class="product-name">
-    <a class="link" href="/products/irina-dress" title="Irina Dress">Irina Dress</a>
-</div>
-        <div class="product-rating">
-    <div class="haravan-product-reviews-badge" data-id="1046938563">  </div>
-
-</div>
-
-<div class="product-item-cta position-relative" >
-<div class="price-box">
-                            <span class="price">1,799,000₫</span>
-                        </div>	
-</div>
-
-<div class="item-color-chosen">
-                                                                        
-    
-</div>
-
-
-
-
-
-
-
-            
-
-    </div>
-</form>
-
-
-
-
-
-
-
-
-                </div>
-            </div>
-            
-            </script>
                         </div>
 
                         <div class="text-center mt-3 col-12">
@@ -1589,12 +1067,7 @@
 
     <section class="section awe-section-12 section-section_imgtext_2">
 
-        <section class="section_imgtext section 
-                    
-        style2 
-        
-        
-        ">
+        <section class="section_imgtext section style2 ">
             <div class="container card border-0">
                 <div class="imgtext_body ">
                     <a class="imgtext_img" href="collections/all.html">
@@ -1645,69 +1118,78 @@
                         <div class="item_skeleton"></div>
                     </div>
 
-                    <script type="text/x-custom-template" data-template="instagram">
-        
-                                                                        
-            <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
-                <img loading="lazy"
-                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_1_img6704.jpg?v=44') }}" 
-                     alt="insta_1_img.html">
-                <div class="d-flex insta-icon-wrap">
-                    <div class="insta-icon">
-                        <svg class="icon">
-<use xlink:href="#icon-instagram"/>
-</svg>							</div>
-                </div>
-            </a>
-                                                                                        
-            <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
-                <img loading="lazy"
-                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_2_img6704.jpg?v=44') }}" 
-                     alt="insta_2_img.html">
-                <div class="d-flex insta-icon-wrap">
-                    <div class="insta-icon">
-                        <svg class="icon">
-<use xlink:href="#icon-instagram"/>
-</svg>							</div>
-                </div>
-            </a>
-                                                                                        
-            <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
-                <img loading="lazy"
-                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_3_img6704.jpg?v=44') }}" 
-                     alt="insta_3_img.html">
-                <div class="d-flex insta-icon-wrap">
-                    <div class="insta-icon">
-                        <svg class="icon">
-<use xlink:href="#icon-instagram"/>
-</svg>							</div>
-                </div>
-            </a>
-                                                                                        
-            <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
-                <img loading="lazy"
-                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_4_img6704.jpg?v=44') }}" 
-                     alt="insta_4_img.html">
-                <div class="d-flex insta-icon-wrap">
-                    <div class="insta-icon">
-                        <svg class="icon">
-<use xlink:href="#icon-instagram"/>
-</svg>							</div>
-                </div>
-            </a>
-                                                                                        
-            <a class="insta_item pos-relative embed-responsive embed-responsive-1by1" href="https://www.instagram.com/eunoiabyan/">
-                <img loading="lazy"
-                     src="{{ asset('assets/theme/200000685745/1001041408/14/insta_5_img6704.jpg?v=44') }}" 
-                     alt="insta_5_img.html">
-                <div class="d-flex insta-icon-wrap">
-                    <div class="insta-icon">
-                        <svg class="icon">
-<use xlink:href="#icon-instagram"/>
-</svg>							</div>
-                </div>
-            </a>
-                                                </script>
+
+
+
+                    <a class="insta_item pos-relative embed-responsive embed-responsive-1by1"
+                        href="https://www.instagram.com/eunoiabyan/">
+                        <img loading="lazy"
+                            src="{{ asset('assets/theme/200000685745/1001041408/14/insta_1_img6704.jpg?v=44') }}"
+                            alt="insta_1_img.html">
+                        <div class="d-flex insta-icon-wrap">
+                            <div class="insta-icon">
+                                <svg class="icon">
+                                    <use xlink:href="#icon-instagram" />
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a class="insta_item pos-relative embed-responsive embed-responsive-1by1"
+                        href="https://www.instagram.com/eunoiabyan/">
+                        <img loading="lazy"
+                            src="{{ asset('assets/theme/200000685745/1001041408/14/insta_2_img6704.jpg?v=44') }}"
+                            alt="insta_2_img.html">
+                        <div class="d-flex insta-icon-wrap">
+                            <div class="insta-icon">
+                                <svg class="icon">
+                                    <use xlink:href="#icon-instagram" />
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a class="insta_item pos-relative embed-responsive embed-responsive-1by1"
+                        href="https://www.instagram.com/eunoiabyan/">
+                        <img loading="lazy"
+                            src="{{ asset('assets/theme/200000685745/1001041408/14/insta_3_img6704.jpg?v=44') }}"
+                            alt="insta_3_img.html">
+                        <div class="d-flex insta-icon-wrap">
+                            <div class="insta-icon">
+                                <svg class="icon">
+                                    <use xlink:href="#icon-instagram" />
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a class="insta_item pos-relative embed-responsive embed-responsive-1by1"
+                        href="https://www.instagram.com/eunoiabyan/">
+                        <img loading="lazy"
+                            src="{{ asset('assets/theme/200000685745/1001041408/14/insta_4_img6704.jpg?v=44') }}"
+                            alt="insta_4_img.html">
+                        <div class="d-flex insta-icon-wrap">
+                            <div class="insta-icon">
+                                <svg class="icon">
+                                    <use xlink:href="#icon-instagram" />
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a class="insta_item pos-relative embed-responsive embed-responsive-1by1"
+                        href="https://www.instagram.com/eunoiabyan/">
+                        <img loading="lazy"
+                            src="{{ asset('assets/theme/200000685745/1001041408/14/insta_5_img6704.jpg?v=44') }}"
+                            alt="insta_5_img.html">
+                        <div class="d-flex insta-icon-wrap">
+                            <div class="insta-icon">
+                                <svg class="icon">
+                                    <use xlink:href="#icon-instagram" />
+                                </svg>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             </div>
         </section>
