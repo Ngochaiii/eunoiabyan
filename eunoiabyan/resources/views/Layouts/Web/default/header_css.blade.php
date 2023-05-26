@@ -4,7 +4,6 @@
 <link rel="dns-prefetch" href="{{ asset('assets/theme/') }}">
 <link rel="dns-prefetch" href="{{ asset('assets/file/') }}">
 <link rel="dns-prefetch" href="{{ asset('assets/stats/') }}">
-<link rel="dns-prefetch" href="{{ asset('assets/www.google-analytics.com/') }}">
 <link rel="dns-prefetch" href="{{ asset('assets/www.googletagmanager.com/') }}">
 <link rel="dns-prefetch" href="{{ asset('assets/www.google.com') }}">
 <link rel="dns-prefetch" href="{{ asset('assets/fonts.gstatic.com') }}">
@@ -440,20 +439,7 @@
         visibility: hidden;
     }
 </style>
-<script type='text/javascript'>
-    window.HaravanAnalytics = window.HaravanAnalytics || {};
-    window.HaravanAnalytics.meta = window.HaravanAnalytics.meta || {};
-    window.HaravanAnalytics.meta.currency = 'VND';
-    var meta = {
-        "page": {
-            "pageType": "404"
-        }
-    };
-    for (var attr in meta) {
-        window.HaravanAnalytics.meta[attr] = meta[attr];
-    }
-    window.HaravanAnalytics.AutoTrack = true;
-</script>
+
 
 <!--
 Theme Information

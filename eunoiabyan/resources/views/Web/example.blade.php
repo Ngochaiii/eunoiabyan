@@ -11,7 +11,7 @@
                         <a href="collections/all.html" title="Slider 1">
                             <picture>
                                 <source media="(max-width: 480px)"
-                                    srcset="//theme/200000685745/1001041408/14/slider_1_large.jpg?v=44">
+                                    srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_1_large.jpg?v=44') }}">
                                 <img class=" img-fluid mx-auto" loading="lazy"
                                     src="{{ asset('assets/theme/200000685745/1001041408/14/slider_16704.jpg?v=44') }}"
                                     width="1920" height="781" alt="Slider 1" />
@@ -23,7 +23,7 @@
                         <a href="collections/all.html" title="Slider 2">
                             <picture>
                                 <source media="(max-width: 480px)"
-                                    srcset="//theme/200000685745/1001041408/14/slider_2_large.jpg?v=44">
+                                    srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_2_large.jpg?v=44') }}">
                                 <img class=" img-fluid mx-auto" loading="lazy"
                                     src="{{ asset('assets/theme/200000685745/1001041408/14/slider_26704.jpg?v=44') }}"
                                     width="1920" height="781" alt="Slider 2" />
@@ -35,7 +35,7 @@
                         <a href="collections/all.html" title="Slider 3">
                             <picture>
                                 <source media="(max-width: 480px)"
-                                    srcset="//theme/200000685745/1001041408/14/slider_3_large.jpg?v=44">
+                                    srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_3_large.jpg?v=44') }}">
                                 <img class=" img-fluid mx-auto" loading="lazy"
                                     src="{{ asset('assets/theme/200000685745/1001041408/14/slider_36704.jpg?v=44') }}"
                                     width="1920" height="781" alt="Slider 3" />
@@ -1499,9 +1499,9 @@
 
                         <picture>
                             <source media="(max-width: 480px)"
-                                srcset="//theme/200000685745/1001041408/14/section_video_bg_large.jpg?v=44">
+                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/section_video_bg_large.') }}jpg?v=44">
                             <source media="(max-width: 991px)"
-                                srcset="//theme/200000685745/1001041408/14/section_video_bg.jpg?v=44">
+                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/section_video_bg.jpg?v=') }}44">
                             <img class="img-fluid object-contain"
                                 src="{{ asset('assets/theme/200000685745/1001041408/14/section_video_bg6704.jpg?v=44') }}"
                                 width="1170" height="600" loading="lazy">
@@ -1600,7 +1600,7 @@
                     <a class="imgtext_img" href="collections/all.html">
                         <picture>
                             <source media="(max-width: 991px)"
-                                srcset="//theme/200000685745/1001041408/14/imgtext_2_img_large.jpg?v=44">
+                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/imgtext_2_img_large.jpg') }}?v=44">
                             <img loading="lazy" class="img-fluid mx-auto"
                                 src="{{ asset('assets/theme/200000685745/1001041408/14/imgtext_2_img6704.jpg?v=44') }}"
                                 width="795" height="475" alt="imgtext_img" />
