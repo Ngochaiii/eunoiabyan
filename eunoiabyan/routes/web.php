@@ -2,7 +2,11 @@
 
 use App\Http\Controllers\Web\WebController;
 use App\Http\Controllers\Web\BlogController;
+use App\Http\Controllers\Web\CollectionController;
 use App\Http\Controllers\Web\IntroduceController;
+use App\Http\Controllers\Web\ContactController;
+use App\Http\Controllers\Web\CartController;
+use App\Http\Controllers\Web\SupportController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -28,5 +32,19 @@ Route::group(['prefix' => ''], function () {
     });
     Route::group(['prefix' => 'introduce'], function () {
         Route::get('/', [IntroduceController::class, 'index'])->name('introduce');
+    });
+    Route::group(['prefix' => 'collection'], function () {
+        Route::get('/nangtho', [CollectionController::class, 'index'])->name('collection.nangtho');
+        Route::get('/black', [CollectionController::class, 'more'])->name('collection.black');
+        Route::get('/all', [CollectionController::class, 'all'])->name('collection.all');
+    });
+    Route::group(['prefix' => 'contact'], function () {
+        Route::get('/', [ContactController::class, 'index'])->name('contact');
+    });
+    Route::group(['prefix' => 'cart'], function () {
+        Route::get('/', [CartController::class, 'index'])->name('cart');
+    });
+    Route::group(['prefix' => 'support'], function () {
+        Route::get('/size', [SupportController::class, 'index'])->name('subport.size');
     });
 });

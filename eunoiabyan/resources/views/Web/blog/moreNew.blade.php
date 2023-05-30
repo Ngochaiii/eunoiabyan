@@ -35,7 +35,7 @@
 
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative 
+                                        <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
                                             href="news/maika-ket-bo-suu-tap-nha-eunoia-by-an-bang-loi-ca-a-whole-new-world.html"
@@ -88,7 +88,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative 
+                                        <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
                                             href="news/dan-mau-nhi-chan-tran-trinh-dien-tai-eunoia-s-wonderland-fashion-show.html"
@@ -142,7 +142,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative 
+                                        <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
                                             href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
@@ -195,7 +195,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative 
+                                        <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
                                             href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
@@ -249,7 +249,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative 
+                                        <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
                                             href="news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
@@ -303,7 +303,7 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative 
+                                        <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
                                             href="news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
@@ -406,7 +406,7 @@
 
                                                     <li class="nav-item">
                                                         <a class="nav-link link"
-                                                            href="../collections/bst-nang-tho.html">BST
+                                                            href="../#">BST
                                                             Nàng Thơ
 
                                                         </a>

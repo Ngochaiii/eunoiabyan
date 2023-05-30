@@ -36,17 +36,12 @@
 </head>
 
 <body id="template-index">
-
     @include('layouts.web.default.loader')
     @include('layouts.web.default.header')
     @yield('content')
     @include('layouts.web.default.footer')
-
-    
     @include('layouts.web.default.footer_js')
-
     @stack('fjs')
-
 </body>
 
 </html>

@@ -47,29 +47,29 @@
                         <div class="col-lg-4">
                             <div class="footer-block footer-click">
                                 <h3 class="footer-title title-menu clicked">
-                                    CHÍNH SÁCH
+                                    THÔNG TIN CÔNG TY 
                                     <i class="fa fa-angle-down d-md-none d-inline-block"></i>
                                 </h3>
                                 <ul class="list-menu toggle-mn">
 
                                     <li class="li_menu">
-                                        <a class="link" href="/" title="Trang chủ">Trang chủ</a>
+                                        <a class="link" href="{{route('home')}}" title="Trang chủ">Trang chủ</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/collections/all" title="Sản phẩm">Sản phẩm</a>
+                                        <a class="link" href="{{route('collection.all')}}" title="Sản phẩm">Sản phẩm</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/blogs/news" title="Blog">Blog</a>
+                                        <a class="link" href="{{route('blogs.news')}}" title="Blog">Blog</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/pages/about-us" title="Giới thiệu">Giới thiệu</a>
+                                        <a class="link" href="{{route('introduce')}}" title="Giới thiệu">Giới thiệu</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/pages/lien-he" title="Liên hệ">Liên hệ</a>
+                                        <a class="link" href="{{route('contact')}}" title="Liên hệ">Liên hệ</a>
                                     </li>
 
                                 </ul>
@@ -84,7 +84,7 @@
                                 <ul class="list-menu toggle-mn">
 
                                     <li class="li_menu">
-                                        <a class="link" href="/" title="Trang chủ">Trang chủ</a>
+                                        <a class="link" href="{{route('subport.size')}}" title="Hướng dẫn chọn size">Hướng dẫn chọn size</a>
                                     </li>
 
                                     <li class="li_menu">
@@ -377,8 +377,7 @@
         </li>
         <li class="addThis_item">
             <a class="addThis_item--icon" href="https://zalo.me/1527872632788362305" target="_blank" rel="nofollow">
-                <img class="img-fluid"
-                    src="http://theme.hstatic.net/200000685745/1001041408/14/addthis-zalo.svg?v=44"
+                <img class="img-fluid" src="http://theme.hstatic.net/200000685745/1001041408/14/addthis-zalo.svg?v=44"
                     alt="Gọi ngay cho chúng tôi" loading="lazy" width="44" height="44" />
                 <span class="tooltip-text">Chat với chúng tôi qua Zalo</span>
             </a>

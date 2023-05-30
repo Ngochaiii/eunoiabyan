@@ -30,10 +30,10 @@
 </script>
 <link rel="preload" as="script"
     href="{{ asset('assets/theme/200000685745/1001041408/14/ega-gateway-min6704.js?v=44') }}">
-<script src='{{ asset('assets/theme/200000685745/1001041408/14/ega-gateway-min6704.js?v=44') }}' type='text/javascript'>
-</script>
-<link rel="stylesheet" href="{{ asset('assets/theme/200000685745/1001041408/14/sales-pop6704.css?v=44') }}" media="print"
-    onload="this.media='all'">
+<script src='{{ asset('assets/theme/200000685745/1001041408/14/ega-gateway-min6704.js?v=44') }}'
+    type='text/javascript'></script>
+<link rel="stylesheet" href="{{ asset('assets/theme/200000685745/1001041408/14/sales-pop6704.css?v=44') }}"
+    media="print" onload="this.media='all'">
 
 <noscript>
     <link href='{{ asset('assets/theme/200000685745/1001041408/14/sales-pop6704.css?v=44') }}' rel='stylesheet'
@@ -46,3 +46,14 @@
     <link href='{{ asset('assets/theme/200000685745/1001041408/14/addthis-sharing6704.css?v=44') }}' rel='stylesheet'
         type='text/css' media='all' />
 </noscript>
+<script type="text/javascript"
+    src="{{ asset('assets/translate/translate_a/elementa0d8.js?cb=googleTranslateElementInit') }}" alt="Translate">
+</script>
+<script>
+	$(document).ready(()=>{
+		$('.top-banner .close').click(()=>{
+			$('.top-banner').slideToggle()
+			sessionStorage.setItem("top-banner",true)
+		})
+	})
+</script>
