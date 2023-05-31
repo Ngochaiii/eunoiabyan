@@ -16,4 +16,5 @@ class BlogController extends Controller
     {
         return view('Web.blog.moreNew');
     }
+    
 }

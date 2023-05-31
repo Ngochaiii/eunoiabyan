@@ -54,7 +54,7 @@
                         @include('Web.home.xtemplates.tab_section_1')
                     </div>
                     <div class="text-center mt-3 col-12">
-                        <a href="#" title="Xem tất cả"
+                        <a href="{{route('collection.nangtho')}}" title="Xem tất cả"
                             class="btn btn-main btn-icon btn-pill">
                             Xem tất cả
                             <svg class="icon">
@@ -92,7 +92,7 @@
                         @include('Web.home.xtemplates.tab_section_2')
                     </div>
                     <div class="text-center mt-3 col-12">
-                        <a href="collections/bst-black-swan.html" title="Xem tất cả"
+                        <a href="{{route('collection.black')}}" title="Xem tất cả"
                             class="btn btn-main btn-icon btn-pill">
                             Xem tất cả
                             <svg class="icon">

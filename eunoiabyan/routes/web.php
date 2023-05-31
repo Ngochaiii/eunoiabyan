@@ -6,6 +6,7 @@ use App\Http\Controllers\Web\CollectionController;
 use App\Http\Controllers\Web\IntroduceController;
 use App\Http\Controllers\Web\ContactController;
 use App\Http\Controllers\Web\CartController;
+use App\Http\Controllers\Web\DetailBlogController;
 use App\Http\Controllers\Web\SupportController;
 use Illuminate\Support\Facades\Route;
 
@@ -29,6 +30,10 @@ Route::group(['prefix' => ''], function () {
     Route::group(['prefix' => 'blogs'], function () {
         Route::get('/news', [BlogController::class, 'index'])->name('blogs.news');
         Route::get('/new-2', [BlogController::class, 'moreNew'])->name('blogs.newsMore');
+        Route::group(['prefix' => 'news'], function () {
+            Route::get('/maika', [DetailBlogController::class, 'maika'])->name('blogs.news.maika');
+            Route::get('/kidmodel', [DetailBlogController::class, 'kidmodel'])->name('blogs.news.kidmodel');
+        });
     });
     Route::group(['prefix' => 'introduce'], function () {
         Route::get('/', [IntroduceController::class, 'index'])->name('introduce');
@@ -45,6 +50,11 @@ Route::group(['prefix' => ''], function () {
         Route::get('/', [CartController::class, 'index'])->name('cart');
     });
     Route::group(['prefix' => 'support'], function () {
-        Route::get('/size', [SupportController::class, 'index'])->name('subport.size');
+        Route::get('/size', [SupportController::class, 'index'])->name('support.size');
+        Route::get('/privaryPolicy', [SupportController::class, 'privacyPolicy'])->name('support.privaryPolicy');
+        Route::get('/payment', [SupportController::class, 'paymentPolicy'])->name('support.payment');
+        Route::get('/shippingPolicy', [SupportController::class, 'shippingPolicy'])->name('support.shippingPolicy');
+        Route::get('/returnPolicy', [SupportController::class, 'returnPolicy'])->name('support.returnPolicy');
+        Route::get('/termsOfService', [SupportController::class, 'termsOfService'])->name('support.termsOfService');
     });
 });

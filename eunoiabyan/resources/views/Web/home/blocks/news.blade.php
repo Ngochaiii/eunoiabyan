@@ -13,7 +13,7 @@
                             <a class="image-blog card-img-top text-center position-relative
    d-flex align-items-center justify-content-center
    aspect-ratio rounded overflow-hidden"
-                                href="blogs/news/maika-ket-bo-suu-tap-nha-eunoia-by-an-bang-loi-ca-a-whole-new-world.html"
+                                href="{{route('blogs.news.maika')}}"
                                 title="Maika kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”"
                                 style=' --width: 433;
   --height: 231;'>
@@ -24,7 +24,7 @@
                             <div class="content_blog clearfix card-body px-0 py-2">
                                 <h3 class>
                                     <a class='link'
-                                        href="blogs/news/maika-ket-bo-suu-tap-nha-eunoia-by-an-bang-loi-ca-a-whole-new-world.html"
+                                        href="{{route('blogs.news.maika')}}"
                                         title="Maika kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”">Maika
                                         kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”</a>
                                 </h3>
@@ -48,7 +48,7 @@
                                         Hà Nội nhận
                                         được sự chú ý của đông đảo người hâm mộ thời trang. Kết... </span>
                                     <a class="button_custome_35 link"
-                                        href="blogs/news/maika-ket-bo-suu-tap-nha-eunoia-by-an-bang-loi-ca-a-whole-new-world.html"
+                                        href="{{route('blogs.news.maika')}}"
                                         title="Đọc tiếp">Đọc tiếp</a>
                                 </p>
                             </div>
@@ -57,7 +57,7 @@
                     <div class="col-md-6 col-12 pos-relative pl-sm-0">
                         <div class='section_blog_right pl-0'>
                             <div class="blogwp clearfix media"> <a class="image-blog text-center mr-2 mr-md-3"
-                                    href="blogs/news/dan-mau-nhi-chan-tran-trinh-dien-tai-eunoia-s-wonderland-fashion-show.html"
+                                    href="{{route('blogs.news.kidmodel')}}"
                                     title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">
                                     <img loading="lazy" class="img-fluid"
                                         src="{{ asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_1-_6da473227dc44d60832a5d22a85f0202_medium.jpg') }}"
@@ -66,7 +66,7 @@
                                 <div class="content_blog clearfix media-body ">
                                     <h3 class='mt-0 mb-1'>
                                         <a class='link'
-                                            href="blogs/news/dan-mau-nhi-chan-tran-trinh-dien-tai-eunoia-s-wonderland-fashion-show.html"
+                                            href="{{route('blogs.news.kidmodel')}}"
                                             title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">Dàn
                                             mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show</a>
                                     </h3>
@@ -80,7 +80,7 @@
                                     <p class="justify lead d-none d-md-block "> &nbsp;Khoác lên mình những thiết kế thời
                                         trang đầy màu sắc, dàn mẫu
                                         nhí đã mang đến cho khán giả... <a class="button_custome_35 link"
-                                            href="blogs/news/dan-mau-nhi-chan-tran-trinh-dien-tai-eunoia-s-wonderland-fashion-show.html"
+                                            href="{{route('blogs.news.kidmodel')}}"
                                             title="Đọc tiếp">Đọc tiếp</a> </p>
                                 </div>
                             </div>
@@ -201,7 +201,7 @@
                     </div>
                 </div>
                 <div class="text-center mt-3">
-                    <a href="blogs/news.html" title="Xem tất cả" class="btn btn-main btn-icon btn-pill">
+                    <a href="{{route('blogs.news')}}" title="Xem tất cả" class="btn btn-main btn-icon btn-pill">
                         Xem tất cả <svg class="icon">
                             <use xlink:href="#icon-arrow" />
                         </svg>

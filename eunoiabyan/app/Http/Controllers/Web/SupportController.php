@@ -11,4 +11,23 @@ class SupportController extends Controller
     {
         return view('Web.support.size');
     }
+    public function privacyPolicy()
+    {
+        return view('Web.support.PrivacyPolicy');
+    }
+    public function paymentPolicy(){
+        return view('Web.support.paymentPolicy');
+    }
+    public function shippingPolicy()
+    {
+        return view('Web.support.shippingPolicy');
+    }
+    public function returnPolicy()
+    {
+        return view('Web.support.returnPolicy');
+    }
+    public function termsOfService()
+    {
+        return view('Web.support.termsOfService');
+    }
 }

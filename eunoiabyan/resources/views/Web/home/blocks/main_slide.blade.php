@@ -8,7 +8,7 @@
                     <a href="collections/all.html" title="Slider 1">
                         <picture>
                             <source media="(max-width: 480px)"
-                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_1_large.jpg?v=44') }}">
+                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_1_large6704.jpg?v=44') }}">
                             <img class=" img-fluid mx-auto" loading="lazy"
                                 src="{{ asset('assets/theme/200000685745/1001041408/14/slider_16704.jpg?v=44') }}"
                                 width="1920" height="781" alt="Slider 1" />
@@ -20,7 +20,7 @@
                     <a href="collections/all.html" title="Slider 2">
                         <picture>
                             <source media="(max-width: 480px)"
-                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_2_large.jpg?v=44') }}">
+                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_26704.jpg?v=44') }}">
                             <img class=" img-fluid mx-auto" loading="lazy"
                                 src="{{ asset('assets/theme/200000685745/1001041408/14/slider_26704.jpg?v=44') }}"
                                 width="1920" height="781" alt="Slider 2" />
@@ -32,7 +32,7 @@
                     <a href="collections/all.html" title="Slider 3">
                         <picture>
                             <source media="(max-width: 480px)"
-                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_3_large.jpg?v=44') }}">
+                                srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_36704.jpg?v=44') }}">
                             <img class=" img-fluid mx-auto" loading="lazy"
                                 src="{{ asset('assets/theme/200000685745/1001041408/14/slider_36704.jpg?v=44') }}"
                                 width="1920" height="781" alt="Slider 3" />

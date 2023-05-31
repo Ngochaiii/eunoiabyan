@@ -84,25 +84,27 @@
                                 <ul class="list-menu toggle-mn">
 
                                     <li class="li_menu">
-                                        <a class="link" href="{{route('subport.size')}}" title="Hướng dẫn chọn size">Hướng dẫn chọn size</a>
+                                        <a class="link" href="{{route('support.size')}}" title="Hướng dẫn chọn size">Hướng dẫn chọn size</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/collections/all" title="Sản phẩm">Sản phẩm</a>
+                                        <a class="link" href="{{route('support.privaryPolicy')}}" title="Chính sách bảo mật ">Chính sách bảo mật </a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/blogs/news" title="Blog">Blog</a>
+                                        <a class="link" href="{{route('support.payment')}}" title="Chính sách thanh toán ">Chính sách thanh toán </a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/pages/about-us" title="Giới thiệu">Giới thiệu</a>
+                                        <a class="link" href="{{route('support.shippingPolicy')}}" title="Chính sách vận chuyển">Chính sách vận chuyển</a>
                                     </li>
 
                                     <li class="li_menu">
-                                        <a class="link" href="/pages/lien-he" title="Liên hệ">Liên hệ</a>
+                                        <a class="link" href="{{route('support.returnPolicy')}}" title="Chính sách đổi trả">Chính sách đổi trả</a>
                                     </li>
-
+                                    <li class="li_menu">
+                                        <a class="link" href="{{route('support.termsOfService')}}" title="Điều khoản dịch vụ ">Điều khoản dịch vụ </a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>

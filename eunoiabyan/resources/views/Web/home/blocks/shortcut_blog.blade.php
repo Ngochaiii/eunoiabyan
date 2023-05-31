@@ -23,7 +23,7 @@
                             tuyệt đẹp khi diện crop top mang dấu ấn thập niên 80. Và crop top còn
                             được thấy ở khắp các BST thời trang mùa Xuân – Hè 2022 của Chanel,
                             Salvatore Ferragamo, Givenchy, Lanvin,…</p>
-                        <a class="link" href="collections/all.html">Xem chi tiết</a>
+                        <a class="link" href="{{route('collection.all')}}">Xem chi tiết</a>
                     </div>
                 </div>
             </div>
