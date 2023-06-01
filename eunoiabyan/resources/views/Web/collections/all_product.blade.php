@@ -29,7 +29,7 @@
         </div>
     </section>
     <div class='collection_banner mb-3 container text-center'>
-        <a class="banner" href="all.html" title="Ảnh banner">
+        <a class="banner" href="{{route('collection.all')}}" title="Ảnh banner">
             <picture>
                 <source media="(min-width: 768px)"
                     srcset="{{asset('assets/theme/200000685745/1001041408/14/collection_main_banner6704.jpg?v=44')}}"

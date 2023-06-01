@@ -19,8 +19,8 @@
                             <span class="mr_lr">&nbsp;/&nbsp;</span>
                         </li>
                         <li class="active">
-                            <span>Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion
-                                show</span>
+                            <span>CEO Vũ Lan Anh dành nhiều tâm huyết cho thời trang trẻ em và ươm
+                                mầm tài năng nhí</span>
                         </li>
 
                     </ul>
@@ -31,12 +31,13 @@
     <section class="blogpage section">
         <div class="container article-wraper card py-2 border-0" itemscope itemtype="https://schema.org/Article">
             <meta itemprop="mainEntityOfPage"
-                content="/blogs/news/dan-mau-nhi-chan-tran-trinh-dien-tai-eunoia-s-wonderland-fashion-show">
+                content="ceo-vu-lan-anh-tam-huyet-cho-thoi-trang-tre-em-va-uom-mam-tai-nang-nhi">
             <meta itemprop="description" content>
             <meta itemprop="author" content="Eunoia by AN">
-            <meta itemprop="headline" content="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">
+            <meta itemprop="headline"
+                content="CEO Vũ Lan Anh dành nhiều tâm huyết cho thời trang trẻ em và ươm mầm tài năng nhí">
             <meta itemprop="image"
-                content="https:https://file.hstatic.net/200000685745/article/eunoia_s_wonderland_1-_6da473227dc44d60832a5d22a85f0202.jpg')}}">
+                content="https:https://file.hstatic.net/200000685745/article/destination_runway_da_nang_18_f626ed5c336d47478ad315dd777372d3.jpg')}}">
             <meta itemprop="datePublished" content>
             <meta itemprop="dateModified" content>
             <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
@@ -55,11 +56,11 @@
                         <article class="article-main">
                             <div class="article-details">
                                 <img class="img-fluid mx-auto mb-3 d-block mh-100 w-auto"
-                                    src="{{asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_1-_6da473227dc44d60832a5d22a85f0202.jpg')}}"
-                                    alt="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">
+                                    src="{{asset('assets/file.hstatic.net/200000685745/article/destination_runway_da_nang_18_f626ed5c336d47478ad315dd777372d3.jpg')}}"
+                                    alt="CEO Vũ Lan Anh dành nhiều tâm huyết cho thời trang trẻ em và ươm mầm tài năng nhí">
 
-                                <h1 class="article-title title_page">Dàn mẫu nhí chân trần trình diễn
-                                    tại Eunoia’s Wonderland Fashion show</h1>
+                                <h1 class="article-title title_page">CEO Vũ Lan Anh dành nhiều tâm
+                                    huyết cho thời trang trẻ em và ươm mầm tài năng nhí</h1>
                                 <div class="media ">
                                     <div class="media-body text-right">
                                         <div class='mt-0 '>Eunoia by AN</div>
@@ -68,14 +69,14 @@
                                             <span>
                                                 <svg class="icon">
                                                     <use xlink:href="#icon-calendar" />
-                                                </svg> Th 2 28/11/2022
+                                                </svg> Th 6 05/08/2022
                                             </span>
                                             <span class="reading-time">
                                                 <svg class="icon">
                                                     <use xlink:href="#icon-clock" />
                                                 </svg>
 
-                                                3 phút đọc
+                                                6 phút đọc
 
                                             </span>
                                         </div>
@@ -96,98 +97,113 @@
 
                                 <div class="article-content js-toc-content">
                                     <div class="rte" id="ega-uti-editable-content" data-platform='haravan'
-                                        data-id="1001979065" data-blog-id=1000811787>
+                                        data-id="1001978995" data-blog-id=1000811787>
 
-                                        <p><strong>&nbsp;Khoác lên mình những thiết kế thời trang đầy màu
-                                                sắc, dàn mẫu nhí đã mang đến cho khán giả những phần trình diễn ấn
-                                                tượng.</strong></p>
+                                        <p><strong>Chị Vũ Lan Anh là CEO của thương hiệu thời trang Eunoia by
+                                                AN và trung tâm học tập nghệ thuật và kỹ năng mềm Casa de Talento.
+                                                Không chỉ vậy, chị còn là người dành nhiều tâm huyết với việc tìm
+                                                kiếm, phát triển tài năng nhí.</strong></p>
+                                        <p><br>Tốt nghiệp Đại
+                                            học Tài chính Thượng Hải năm 2014, chị Vũ Lan Anh về nước sinh sống
+                                            và kết hôn cùng chồng là bác sĩ. Sau khi lập gia đình chị đã quyết
+                                            định lùi về hậu phương chăm sóc cho tổ ấm nhỏ để chồng có thời gian
+                                            chuyên tâm công tác. Ba thiên thần nhí đáng yêu lần lượt ra đời là
+                                            “trái ngọt” tình yêu của vợ chồng chị.</p>
+                                        <p>Tốt nghiệp Đại học Tài
+                                            chính Thượng Hải năm 2014, chị Vũ Lan Anh về nước sinh sống và kết
+                                            hôn cùng chồng là bác sĩ. Sau khi lập gia đình chị đã quyết định lùi
+                                            về hậu phương chăm sóc cho tổ ấm nhỏ để chồng có thời gian chuyên
+                                            tâm công tác. Ba thiên thần nhí đáng yêu lần lượt ra đời là “trái
+                                            ngọt” tình yêu của vợ chồng chị.</p>
                                         <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_5-_6d58676a77de4091abf18391550da5e5_1024x1024.jpg')}}">
+                                                src="{{asset('assets/file.hstatic.net/200000685745/file/ceo_vu_lan_anh_1_-_copy_9169e37009414d4ba100df8e26a20dfb.jpg')}}">
                                         </p>
-                                        <p><br>Dàn
-                                            mẫu nhí xuất hiện trong Eunoia’s Wonderland Fashion Show diễn ra tại
-                                            Hà Nội có nhiều cái tên quen thuộc với người yêu thời trang trẻ em
-                                            Việt Nam như An Cát Diệp, Ruby Ngọc Anh, Suri Thanh Mai, An Nhi,
-                                            Maika Ngọc Khánh…</p>
+                                        <p style="text-align: center;">CEO Vũ Lan Anh</p>
+                                        <p><br>Bên cạnh chăm
+                                            sóc chồng con, chị Vũ Lan Anh cũng điều hành công ty và phòng khám
+                                            đông y của gia đình. Trong thời gian đó, chị phát hiện ra năng khiếu
+                                            và tài năng nghệ thuật của cô con gái lớn An An. Nhận thấy tình yêu
+                                            mãnh liệt với thời trang của con ngày một lớn, chị đã quyết định sẽ
+                                            đồng hành cùng con gái theo đuổi đam mê ấy.</p>
+                                        <p>Suốt 3 năm trời
+                                            ròng rã đưa đón con đi học hết các lớp tài năng này đến lớp năng
+                                            khiếu khác, chị cảm nhận được sự hy sinh và vất vả của những ông bố,
+                                            bà mẹ khi chứng kiến họ không quản nắng mưa, sớm tối, dù khó khăn
+                                            vẫn bước đi cùng con theo đuổi con đường nghệ thuật.</p>
+                                        <p>Thêm vào
+                                            đó, trong chị Vũ Lan Anh là một tình yêu rất lớn với trẻ con. Mọi
+                                            hoạt động từ thiện suốt 8 năm qua của chị đều xoay quanh trẻ em. Như
+                                            nấu cháo cho bệnh nhi tại Bệnh viện Châm cứu Trung ương, tổ chức hai
+                                            chuyến thiện nguyện mang giáo cụ học tập cho học sinh ở vùng núi
+                                            Điện Biên, Lào Cai, kêu gọi đóng góp mua cặp phao cứu sinh cho học
+                                            sinh Quảng Bình mùa lũ…</p>
                                         <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_7-_8772df7642c54f8cadf8e053c36c8d7d_1024x1024.jpg')}}">
+                                                src="{{asset('assets/file.hstatic.net/200000685745/file/ceo_vu_lan_anh_3_2a8d471386f9461a853a1eabc861fcae.jpg')}}">
                                         </p>
-                                        <p>Các
-                                            “chân dài nhí” đã hóa thân thành những nàng công chúa bước ra từ
-                                            truyện cổ tích ngay trên sàn diễn. Với những bước catwalk đầy thần
-                                            thái, và khả năng xử lý sân khấu tốt, dàn mẫu nhí đã truyền tải
-                                            thành công thông điệp mà NTK gửi gắm.</p>
                                         <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_6-_95c2eb16483d4307815e09ff952b2e61_1024x1024.jpg')}}">
+                                                src="{{asset('assets/file.hstatic.net/200000685745/file/ceo_vu_lan_anh_4_1fa2a24c65b742b0ab62c2d7be33f9f3.jpg')}}">
                                         </p>
-                                        <p>Đặc
-                                            biệt, trong show diễn này, dàn mẫu nhí trình diễn hoàn toàn bằng
-                                            chân trần trên sân khấu. Ban tổ chức mong muốn gìn giữ và nâng niu
-                                            những điều tự nhiên và thuần khiết nhất của trẻ em và thời trang.</p>
-                                        <p>Dàn
-                                            mẫu nhí diện các thiết kế nằm trong ba bộ sưu tập thời trang độc
-                                            đáo: “Black Swan” (Thiên nga đen), “Tinh linh” và “Cổ tích” đến từ
-                                            thương hiệu thời trang Eunoia by AN.</p>
+                                        <p style="text-align: center;">CEO Vũ Lan Anh dành nhiều tâm huyết cho
+                                            công tác thiện nguyện.</p>
+                                        <p>Chính vì thế, sau 8 năm kinh doanh với
+                                            vốn kinh nghiệm dày dặn khi quản lý và điều hành công ty, chị Vũ Lan
+                                            Anh đã quyết định rẽ ngang sang lĩnh vực nghệ thuật và truyền thông.
+                                            Chị đã thành lập trung tâm học tập nghệ thuật và kỹ năng mềm Casa de
+                                            Talento để là nơi ươm mầm nghệ thuật của những đứa trẻ có đam mê với
+                                            thời trang và nghệ thuật như con gái của mình. Nữ CEO mong muốn các
+                                            bạn nhỏ không chỉ được đào tạo về kĩ năng mà còn được thắp lửa đam
+                                            mê để vững vàng trên con đường nghệ thuật phía trước.</p>
+                                        <p>Dấu mốc
+                                            đầu tiên cho hành trình thời trang và ươm mầm tài năng nhí của CEO
+                                            Vũ Lan Anh đó chính là sự ra mắt của BST “Black Swan” cùng thương
+                                            hiệu thời trang trẻ em Eunoia by AN như một món quà dành tặng cho
+                                            con gái lớn An An và các bạn nhỏ có niềm đam mê với thời trang.</p>
                                         <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_1-_0d9bb29d88924f6c96881af197bfc27e_1024x1024.jpg')}}">
+                                                src="{{asset('assets/file.hstatic.net/200000685745/file/destination_runway_da_nang_18_54a0ae4714c849f8b11b7b80d24fe0c1.jpg')}}">
                                         </p>
-                                        <p>Bộ
-                                            sưu tập “Black Swan” được lấy cảm hứng từ hình ảnh của cánh chim
-                                            thiên nga đen cùng những chiếc lông vũ. Các bộ trang phục mang vẻ
-                                            đẹp kiêu sa của những chú thiên nga đen với phom dáng độc đáo và sự
-                                            đầu tư kỹ lưỡng về cách xử lý chất liệu cùng kĩ thuật đính kết tỉ mỉ
-                                            trong từng trang phục. Thiên nga đen tượng trưng cho vẻ đẹp kiêu sa
-                                            cùng sự biến đổi không ngừng để tỏa sáng, vươn tới cái đẹp hoàn mỹ.
-                                            Kết hợp với hình ảnh những chiếc lông vũ bay lên tựa như chắp cánh
-                                            cho ước mơ bay cao và bay xa.</p>
+                                        <p style="text-align: center;">CEO Vũ Lan Anh và thương hiệu Eunoia by
+                                            AN trình làng BST “Black Swan” tại Destination Runway Fashion Week.</p>
+                                        <p>26
+                                            mẫu thiết kế với phom dáng độc đáo và sự đầu tư kỹ lưỡng về cách xử
+                                            lý chất liệu cùng kỹ thuật đính kết tỉ mỉ, BST “Black Swan” đã nhận
+                                            được “mưa” lời khen của đông đảo giới mộ điệu thời trang khi xuất
+                                            hiện trên sàn diễn Destination Runway Fashion Week.</p>
+                                        <p>Với slogan
+                                            của thương hiệu Eunoia by AN là “Unique As A Child”, mỗi nàng thiên
+                                            nga đen trong show diễn là một màu sắc cá tính riêng biệt, mang
+                                            phong thái đầy kiêu sa, lộng lẫy. Không chỉ vậy, hình ảnh CEO Vũ Lan
+                                            Anh xách giày đi chân trần ra chào kết cùng con gái gây ấn tượng
+                                            mạnh mẽ với khán giả.</p>
+                                        <p>Chia sẻ về khoảnh khắc ấn tượng ấy, CEO
+                                            Vũ Lan Anh cho biết: “Do lịch trình làm việc dày đặc và di chuyển
+                                            liên tục với cường độ làm việc cao không ngừng nghỉ nên toàn bộ 10
+                                            đầu ngón chân của tôi đều bị sưng đỏ, gây khó khăn khi đi giày cao
+                                            gót. Đến phần chào kết vì sợ ảnh hưởng đến thời gian của chương
+                                            trình và gây tâm lý lo lắng cho con gái đang nắm tay mình nên tôi đã
+                                            quyết định tháo giày cao gót, đi chân trần. Tôi mong muốn con hiểu
+                                            rằng luôn có mẹ đồng hành cùng con trên mọi bước đường đi phía trước
+                                            dù có khó khăn đến đâu”.</p>
+                                        <p>Đó là những bước chân của tình mẫu
+                                            tử, tình yêu thời trang, tâm huyết với trẻ em. CEO Vũ Lan Anh mong
+                                            muốn đem đến những điều giản dị nhất nhưng trân quý nhất của bản
+                                            thân mình trao cho con gái cũng như những những bạn nhỏ đam mê thời
+                                            trang. Với hình ảnh đó, chị đã truyền cảm hứng đến các bậc cha mẹ để
+                                            họ sẵn sàng đồng hành cùng con vững bước theo đuổi niềm đam mê của
+                                            con.</p>
                                         <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_4-_181dc26b4ca04a89a9b99d5c111247a2_1024x1024.jpg')}}">
+                                                src="{{asset('assets/file.hstatic.net/200000685745/file/workshop_nha_thiet_ke_nhi_0d_1_59e36b5cdc3141bc8b59f43f8ce0b993.jpg')}}">
                                         </p>
-                                        <p style="text-align: center">&nbsp;</p>
-                                        <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_3-_4e920e282f1d4e6e997c239f46a9eb09_1024x1024.jpg')}}">
-                                        </p>
-                                        <p>Bộ
-                                            sưu tập “Tinh linh” là những thiết kế váy công chúa với tông màu chủ
-                                            đạo là hồng và tím, form dáng hiện đại, đường nét cắt may sáng tạo
-                                            cùng kĩ thuật đính kết tinh tế với điểm nhấn là đôi cánh thiên thần
-                                            trên lưng. Thông điệp nhân văn mà bộ sưu tập này muốn gửi gắm đó là
-                                            trẻ em sẽ luôn được bảo vệ, chở che trong vòng tay yêu thương của
-                                            gia đình, được chắp cánh bay cao chạm tay đến ước mơ.</p>
-                                        <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_7-_8772df7642c54f8cadf8e053c36c8d7d_grande.jpg')}}">
-                                        </p>
-                                        <p>BST
-                                            “Cổ tích” mang theo giấc mơ về một thế giới thần tiên được tái hiện
-                                            giữa đời thực. Các thiết kế truyền tải trọn vẹn tinh thần của thời
-                                            trang cao cấp: sử dụng bảng màu pastel nhẹ nhàng, tinh tế để làm nổi
-                                            bật phần họa tiết đính kết cầu kỳ cùng kỹ thuật dựng form hoàn hảo.
-                                            Điểm nhấn của các bộ trang phục là phần đính kết đá màu tỉ mỉ và
-                                            được thực hiện hoàn toàn thủ công.</p>
-                                        <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_8-_e302c549d4b1481f859f7053b92f8581_1024x1024.jpg')}}">
-                                        </p>
-                                        <p>Show
-                                            diễn không chỉ thu hút sự chú ý của đông đảo người hâm mộ thời trang
-                                            mà còn có sự góp mặt của nhiều gương mặt nổi tiếng như gia đình “hot
-                                            kid” Xoài, Youtuber Bố Con Sâu, MC Minh Hà, NTK Hoàng Minh Hà, NTK
-                                            Ruby Phạm, MC Minh Quân (top 3 Vietnam Idol 2015), Nghệ sĩ Violin
-                                            Hải Ngọc…</p>
-                                        <p><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_2-_ef3f4f144c6b42b38345569f5ae87d49_1024x1024.jpg')}}">
-                                        </p>
-                                        <p>Bên
-                                            cạnh đó, chương trình còn gây quỹ “Áo mới đến trường”. Theo đó, các
-                                            người mẫu nhí tham gia trình diễn trong chương trình đóng góp “một
-                                            ngày làm việc” đến các bạn nhỏ vùng cao; từ đó, biến giấc mơ được
-                                            khoác những tấm áo mới của trẻ em có hoàn cảnh khó khăn thành hiện
-                                            thực. Sau show diễn, tổng số tiền quyên góp được lên tới 30 triệu
-                                            đồng. Đại diện ban tổ chức đã ngay lập tức trao số tiền này cho quỹ
-                                            “Áo mới đến trường”.</p>
-                                        <p style="text-align: center"><img
-                                                src="{{asset('assets/file.hstatic.net/200000685745/file/eunoia_s_wonderland_9-_f8ade5ae00a247e0aa47ab49ab510049_1024x1024.jpg')}}">
-                                        </p>
-                                        <p>&nbsp;</p>
+                                        <p style="text-align: center;">Dự án Truyền cảm hứng thời trang cho trẻ
+                                            em 0 đồng của thương hiệu Eunoia by AN</p>
+                                        <p>CEO Vũ Lan Anh cho biết
+                                            chị đang thực hiện dự án truyền cảm hứng thời trang cho trẻ em 0
+                                            đồng mở đầu là buổi workshop để các bé hiểu hơn về ngành thiết kế
+                                            thời trang, làm quen với các loại vải, cách may vá, cách lựa chọn
+                                            phụ kiện đi kèm và thỏa sức sáng tạo, tự tay thiết kế một bộ trang
+                                            phục cho riêng mình. Bên cạnh đó, chị cũng ấp ủ show diễn dành cho
+                                            100 bé có hoàn cảnh khó khăn để hiện thực giấc mơ được sải bước trên
+                                            sàn catwalk và biến thành công chúa trong những bộ váy lộng lẫy của
+                                            thương hiệu Eunoia by AN.</p>
                                     </div>
                                 </div>
                             </div>
@@ -274,7 +290,61 @@
                                                 <a class="image-blog card-img-top text-center position-relative 
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
-                                                    href="{{route('blogs.news.brand_Eunoia')}}"
+                                                    href="{{route('blogs.news.Eunoia_Wonderland')}}"
+                                                    title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show"
+                                                    style=' --width: 433;
+      --height: 231;'>
+                                                    <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
+                                                        src="{{asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_1-_6da473227dc44d60832a5d22a85f0202.jpg')}}"
+                                                        alt="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">
+                                                </a>
+                                                <div class="content_blog clearfix card-body px-0 py-2">
+                                                    <h3 class>
+                                                        <a class='link'
+                                                            href="{{route('blogs.news.Eunoia_Wonderland')}}"
+                                                            title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">Dàn
+                                                            mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion
+                                                            show</a>
+                                                    </h3>
+                                                    <div class="media">
+                                                        <div class="media-body">
+                                                            <div class='art-info text-muted '>
+                                                                <span>
+                                                                    <svg class="icon">
+                                                                        <use xlink:href="#icon-calendar" />
+                                                                    </svg> Th 2 28/11/2022
+                                                                </span>
+                                                                <span class="reading-time">
+                                                                    <svg class="icon">
+                                                                        <use xlink:href="#icon-clock" />
+                                                                    </svg>
+
+                                                                    3 phút đọc
+
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <p class="justify">
+                                                        <span class="art-summary">
+
+                                                            &nbsp;Khoác lên mình những thiết kế thời trang đầy màu sắc, dàn
+                                                            mẫu nhí đã mang đến cho khán giả những phần trình diễn ấn
+                                                            tượng.Dàn...
+                                                        </span>
+                                                        <a class="button_custome_35 link"
+                                                            href="{{route('blogs.news.Eunoia_Wonderland')}}"
+                                                            title="Đọc tiếp">Đọc tiếp</a>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3 col-12">
+                                            <div class="blogwp column ">
+                                                <a class="image-blog card-img-top text-center position-relative 
+       d-flex align-items-center justify-content-center
+       aspect-ratio rounded overflow-hidden"
+                                                    href="{{route('blogs.news.eunoia_by_AN')}}"
                                                     title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện"
                                                     style=' --width: 433;
       --height: 231;'>
@@ -285,7 +355,7 @@
                                                 <div class="content_blog clearfix card-body px-0 py-2">
                                                     <h3 class>
                                                         <a class='link'
-                                                            href="{{route('blogs.news.brand_Eunoia')}}"
+                                                            href="{{route('blogs.news.eunoia_by_AN')}}"
                                                             title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">Thương
                                                             hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện
                                                             nguyện</a>
@@ -317,7 +387,7 @@
                                                             thương...
                                                         </span>
                                                         <a class="button_custome_35 link"
-                                                            href="{{route('blogs.news.brand_Eunoia')}}"
+                                                            href="{{route('blogs.news.eunoia_by_AN')}}"
                                                             title="Đọc tiếp">Đọc tiếp</a>
                                                     </p>
                                                 </div>
@@ -376,60 +446,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-3 col-12">
-                                            <div class="blogwp column ">
-                                                <a class="image-blog card-img-top text-center position-relative 
-       d-flex align-items-center justify-content-center
-       aspect-ratio rounded overflow-hidden"
-                                                    href="{{route('blogs.news.show_fashition')}}"
-                                                    title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland"
-                                                    style=' --width: 433;
-      --height: 231;'>
-                                                    <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
-                                                        src="{{asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_campaign_ngua_resize_web_44de8126e22541488f3c5c9e2c945b55.jpg')}}"
-                                                        alt="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland">
-                                                </a>
-                                                <div class="content_blog clearfix card-body px-0 py-2">
-                                                    <h3 class>
-                                                        <a class='link'
-                                                            href="{{route('blogs.news.show_fashition')}}"
-                                                            title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland">Những
-                                                            thiên thần nhỏ trong show thời trang cổ tích Eunoia’s
-                                                            Wonderland</a>
-                                                    </h3>
-                                                    <div class="media">
-                                                        <div class="media-body">
-                                                            <div class='art-info text-muted '>
-                                                                <span>
-                                                                    <svg class="icon">
-                                                                        <use xlink:href="#icon-calendar" />
-                                                                    </svg> Th 3 01/11/2022
-                                                                </span>
-                                                                <span class="reading-time">
-                                                                    <svg class="icon">
-                                                                        <use xlink:href="#icon-clock" />
-                                                                    </svg>
-
-                                                                    3 phút đọc
-
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <p class="justify">
-                                                        <span class="art-summary">
-
-                                                            Eunoia’s Wonderland Fashion Show đang được giới mộ điệu thời
-                                                            trang mong chờ khi mang thông điệp về sự khát khao khám phá vẻ
-                                                            đẹp độc...
-                                                        </span>
-                                                        <a class="button_custome_35 link"
-                                                            href="{{route('blogs.news.show_fashition')}}"
-                                                            title="Đọc tiếp">Đọc tiếp</a>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
 
                                 </div>
@@ -441,93 +457,4 @@
             </div>
         </div>
     </section>
-    <div id="fixed-toc" class="fixed-toc">
-        <button class="btn toc-toggle-btn">
-            <i class="fa fa-list-ol" aria-hidden="true"></i>
-
-        </button>
-        <div class="fixed-toc-content">
-            <div class="toc-title mb-2 open font-weight-bold">Nội dung bài viết
-                <span class="toc-toggle-btn toc-toggle-btn ml-auto mb-2"><svg class="icon" viewBox="0 0 12 12"
-                        fill="none">
-                        <g clip-path="url(#clip0)">
-                            <path
-                                d="M0.620965 12C0.462896 12 0.304826 11.9399 0.184729 11.8189C-0.0563681 11.5778 -0.0563681 11.1869 0.184729 10.9458L10.9497 0.180823C11.1908 -0.0602744 11.5817 -0.0602744 11.8228 0.180823C12.0639 0.421921 12.0639 0.8128 11.8228 1.05405L1.05795 11.8189C0.936954 11.9392 0.778884 12 0.620965 12Z"
-                                fill="#8C9196" />
-                            <path
-                                d="M11.3867 12C11.2287 12 11.0707 11.9399 10.9505 11.8189L0.184729 1.05405C-0.0563681 0.8128 -0.0563681 0.421921 0.184729 0.180823C0.425827 -0.0602744 0.816706 -0.0602744 1.05795 0.180823L11.8228 10.9458C12.0639 11.1869 12.0639 11.5778 11.8228 11.8189C11.7018 11.9392 11.5439 12 11.3867 12Z"
-                                fill="#8C9196" />
-                        </g>
-                        <defs>
-                            <clippath id="clip0">
-                                <rect width="12" height="12" fill="white" />
-                            </clippath>
-                        </defs>
-                    </svg></span>
-            </div>
-        </div>
-    </div>
 @endsection
-@push('fjs')
-    <script defer src="{{ asset('assets/cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js') }}"></script>
-    <script>
-        $(document).ready(() => {
-            const tocHeadings = "h1,h2,h3,h4";
-
-            function toSlug(string) {
-                return string.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-$/, '').replace(/^-/, '');
-            }
-            $('.js-toc-content :header').each(function() {
-                let heading = $(this)
-                heading.attr('id', toSlug(heading.text()))
-            })
-            tocbot.init({
-                // Where to render the table of contents.
-                tocSelector: '.js-toc',
-                // Where to grab the headings to build the table of contents.
-                contentSelector: '.js-toc-content',
-                // Which headings to grab inside of the contentSelector element.
-                headingSelector: tocHeadings,
-                // For headings inside relative or absolute positioned containers within content.
-                hasInnerContainers: true,
-                isCollapsedClass: 'is-collapsedd',
-                collapsibleClass: 'is-collapsibled',
-                collapseDepth: 8,
-                headingsOffset: 100,
-                scrollSmoothOffset: -100,
-                scrollSmooth: true
-            })
-
-            $('.toc-title').click(function() {
-                $(this).toggleClass('open')
-                $('.js-toc').toggle()
-            })
-            $('.fixed-toc-content').append($('.js-toc').html())
-            $('.toc-list-item').length ? $('.toc-title').addClass('active') : $('.fixed-toc').remove()
-            $('.toc-toggle-btn').click(function() {
-                $(this).parents('.fixed-toc').toggleClass('open')
-            })
-            let observer = new IntersectionObserver((entries, observer) => {
-                entries.forEach(entry => {
-
-                    if (entry.isIntersecting) {
-                        $('.fixed-toc').removeClass('open').hide()
-                    } else {
-                        $('.fixed-toc').show()
-
-                    }
-                });
-            }, {
-                threshold: 0,
-            });
-            document.querySelectorAll('.toc-wrapper').forEach(div => {
-                observer.observe(div)
-            });
-
-
-        })
-    </script>
-@endpush
-@push('hcss')
-    <link rel="stylesheet" href="{{ asset('assets/cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css') }}">
-@endpush

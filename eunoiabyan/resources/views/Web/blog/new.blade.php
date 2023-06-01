@@ -145,7 +145,7 @@
                                         <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
-                                            href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                            href="{{route('blogs.news.brand_Eunoia')}}"
                                             title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện"
                                             style=' --width: 433;
       --height: 231;'>
@@ -156,7 +156,7 @@
                                         <div class="content_blog clearfix card-body px-0 py-2">
                                             <h3 class>
                                                 <a class='link'
-                                                    href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                                    href="{{route('blogs.news.brand_Eunoia')}}"
                                                     title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">Thương
                                                     hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện</a>
                                             </h3>
@@ -187,7 +187,7 @@
 
                                                 </span>
                                                 <a class="button_custome_35 link"
-                                                    href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                                    href="{{route('blogs.news.brand_Eunoia')}}"
                                                     title="Đọc tiếp">Đọc tiếp</a>
                                             </p>
                                         </div>
@@ -198,7 +198,7 @@
                                         <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
-                                            href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                            href="{{route('blogs.news.kidmodel_vadete')}}"
                                             title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland"
                                             style=' --width: 433;
       --height: 231;'>
@@ -209,7 +209,7 @@
                                         <div class="content_blog clearfix card-body px-0 py-2">
                                             <h3 class>
                                                 <a class='link'
-                                                    href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                                    href="{{route('blogs.news.kidmodel_vadete')}}"
                                                     title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">Dàn
                                                     mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland</a>
                                             </h3>
@@ -241,7 +241,7 @@
 
                                                 </span>
                                                 <a class="button_custome_35 link"
-                                                    href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                                    href="{{route('blogs.news.kidmodel_vadete')}}"
                                                     title="Đọc tiếp">Đọc tiếp</a>
                                             </p>
                                         </div>
@@ -252,7 +252,7 @@
                                         <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
-                                            href="news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
+                                            href="{{route('blogs.news.show_fashition')}}"
                                             title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland"
                                             style=' --width: 433;
       --height: 231;'>
@@ -263,7 +263,7 @@
                                         <div class="content_blog clearfix card-body px-0 py-2">
                                             <h3 class>
                                                 <a class='link'
-                                                    href="news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
+                                                    href="{{route('blogs.news.show_fashition')}}"
                                                     title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland">Những
                                                     thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland</a>
                                             </h3>
@@ -295,7 +295,7 @@
 
                                                 </span>
                                                 <a class="button_custome_35 link"
-                                                    href="news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
+                                                    href="{{route('blogs.news.show_fashition')}}"
                                                     title="Đọc tiếp">Đọc tiếp</a>
                                             </p>
                                         </div>
@@ -306,7 +306,7 @@
                                         <a class="image-blog card-img-top text-center position-relative
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
-                                            href="news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
+                                            href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                             title="Eunoia’s Wonderland Fashion Show mở ra không gian cổ tích ấn tượng"
                                             style=' --width: 433;
       --height: 231;'>
@@ -317,7 +317,7 @@
                                         <div class="content_blog clearfix card-body px-0 py-2">
                                             <h3 class>
                                                 <a class='link'
-                                                    href="news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
+                                                    href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                                     title="Eunoia’s Wonderland Fashion Show mở ra không gian cổ tích ấn tượng">Eunoia’s
                                                     Wonderland Fashion Show mở ra không gian cổ tích ấn tượng</a>
                                             </h3>
@@ -349,7 +349,7 @@
 
                                                 </span>
                                                 <a class="button_custome_35 link"
-                                                    href="news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
+                                                    href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                                     title="Đọc tiếp">Đọc tiếp</a>
                                             </p>
                                         </div>
@@ -390,7 +390,7 @@
                                     <nav class="nav-category navbar-toggleable-md">
                                         <ul class="nav navbar-pills flex-column">
 
-                                            <li class="nav-item"><a class="nav-link link" href="../index.html">Trang
+                                            <li class="nav-item"><a class="nav-link link" href="{{route('home')}}">Trang
                                                     chủ
 
                                                 </a>
@@ -398,7 +398,7 @@
                                             </li>
 
                                             <li class="nav-item ">
-                                                <a href="../collections/all.html" class=" nav-link link ">
+                                                <a href="{{route('collection.all')}}" class=" nav-link link ">
                                                     Sản phẩm
                                                 </a>
                                                 <i class="fa fa-caret-down"></i>
@@ -414,7 +414,7 @@
 
                                                     <li class="nav-item">
                                                         <a class="nav-link link"
-                                                            href="../collections/bst-black-swan.html">BST Black Swan
+                                                            href="{{route('collection.black')}}">BST Black Swan
 
                                                         </a>
                                                     </li>
@@ -422,21 +422,21 @@
                                                 </ul>
                                             </li>
 
-                                            <li class="nav-item"><a class="nav-link link" href="news.html">Blog
+                                            <li class="nav-item"><a class="nav-link link" href="{{route('blogs.news')}}">Blog
 
                                                 </a>
 
                                             </li>
 
                                             <li class="nav-item"><a class="nav-link link"
-                                                    href="../pages/about-us.html">Giới thiệu
+                                                    href="{{route('introduce')}}">Giới thiệu
 
                                                 </a>
 
                                             </li>
 
                                             <li class="nav-item"><a class="nav-link link"
-                                                    href="../pages/lien-he.html">Liên hệ
+                                                    href="{{route('contact')}}">Liên hệ
 
                                                 </a>
 
@@ -449,7 +449,7 @@
 
                             <div class="blog-aside aside-item blog-aside-article">
                                 <div class="aside-title">
-                                    <h2 class="title-head"><span><a class="link" href="news.html"
+                                    <h2 class="title-head"><span><a class="link" href="{{route('blogs.news')}}"
                                                 title="Tin nổi bật">Tin nổi bật</a></span></h2>
                                 </div>
                                 <div class="aside-content-article aside-content margin-top-0">
@@ -501,7 +501,7 @@
                                         <div class="blogwp clearfix media">
 
                                             <a class="image-blog text-center mr-2 mr-md-3"
-                                                href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                                href="{{route('blogs.news.brand_Eunoia')}}"
                                                 title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">
                                                 <img loading="lazy" class="img-fluid"
                                                     src="{{ asset('assets/file.hstatic.net/200000685745/article/show_nang_thu_resize_web_c4dd6d465aef4b6097fedf2f8ddf4d68_medium.jpg') }}"
@@ -511,7 +511,7 @@
                                             <div class="content_blog clearfix media-body ">
                                                 <h3 class='mt-0 mb-1'>
                                                     <a class='link'
-                                                        href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                                        href="{{route('blogs.news.brand_Eunoia')}}"
                                                         title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">Thương
                                                         hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện</a>
                                                 </h3>
@@ -522,7 +522,7 @@
                                         <div class="blogwp clearfix media">
 
                                             <a class="image-blog text-center mr-2 mr-md-3"
-                                                href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                                href="{{route('blogs.news.kidmodel_vadete')}}"
                                                 title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">
                                                 <img loading="lazy" class="img-fluid"
                                                     src="{{ asset('assets/file.hstatic.net/200000685745/article/yyy-6663-1669364775_bbcf0825081b463096e39fe20ba3a015_medium.jpg') }}"
@@ -532,7 +532,7 @@
                                             <div class="content_blog clearfix media-body ">
                                                 <h3 class='mt-0 mb-1'>
                                                     <a class='link'
-                                                        href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                                        href="{{route('blogs.news.kidmodel_vadete')}}"
                                                         title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">Dàn
                                                         mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland</a>
                                                 </h3>

@@ -135,21 +135,9 @@
                                                 </div>
 
                                             </div>
-                                            <div class="sitebox-recaptcha hidden">
-                                                This site is protected by reCAPTCHA and the Google
-                                                <a href="https://policies.google.com/privacy" target="_blank"
-                                                    rel="noreferrer">Privacy Policy</a>
-                                                and <a href="https://policies.google.com/terms" target="_blank"
-                                                    rel="noreferrer">Terms of Service</a> apply.
-                                            </div>
+                                            
 
-                                            <input id='f597b7cce09b420899aad1925bb56159' name='g-recaptcha-response'
-                                                type='hidden'><noscript
-                                                src='https://www.google.com/recaptcha/api.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-'></noscript><noscript>grecaptcha.ready(function()
-                                                {grecaptcha.execute('6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-',
-                                                {action: 'submit'}).then(function(token)
-                                                {document.getElementById('f597b7cce09b420899aad1925bb56159').value
-                                                = token;});});</noscript>
+                                            
                                         </form>
                                     </div>
 

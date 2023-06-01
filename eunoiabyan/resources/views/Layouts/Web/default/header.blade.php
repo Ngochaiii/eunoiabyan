@@ -11,7 +11,7 @@
 
         <div id="logo">
 
-            <a href="index.html" class="logo-wrapper ">
+            <a href="{{route('home')}}" class="logo-wrapper ">
                 <img class="img-fluid" src="{{ asset('assets/theme/200000685745/1001041408/14/logo6704.png?v=44') }}"
                     alt="logo EUNOIA" width="134" height="45">
             </a>
@@ -121,8 +121,8 @@
                         <use xlink:href="#icon-user" />
                     </svg>
                     <div class="account-action">
-                        <a href="account/login.html" title="Đăng nhập">Đăng nhập</a>
-                        <a href="account/register.html" title="Đăng ký">Đăng ký</a>
+                        <a href="#" title="Đăng nhập">Đăng nhập</a>
+                        <a href="#" title="Đăng ký">Đăng ký</a>
                     </div>
                 </div>
                 <div class="mini-cart text-xs-center">

@@ -23,7 +23,7 @@
         content="{{asset('assets/theme.hstatic.net/200000685745/1001041408/14/share_fb_home6704.jpg?v=44')}}">
 
     <meta property="og:description" content>
-    <meta property="og:url" content="index.html">
+    <meta property="og:url" content="{{route('home')}}">
     <meta property="og:site_name" content>
     <meta name="csrf-token" content="{{ csrf_token() }}">
 

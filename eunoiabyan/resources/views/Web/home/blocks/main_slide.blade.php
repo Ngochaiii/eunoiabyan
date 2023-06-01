@@ -5,7 +5,7 @@
             <div class="home-slider">
 
                 <div class="items text-center" data-color="#ffffff">
-                    <a href="collections/all.html" title="Slider 1">
+                    <a href="{{route('collection.all')}}" title="Slider 1">
                         <picture>
                             <source media="(max-width: 480px)"
                                 srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_1_large6704.jpg?v=44') }}">
@@ -17,7 +17,7 @@
                 </div>
 
                 <div class="items text-center" data-color="#ffffff">
-                    <a href="collections/all.html" title="Slider 2">
+                    <a href="{{route('collection.all')}}" title="Slider 2">
                         <picture>
                             <source media="(max-width: 480px)"
                                 srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_26704.jpg?v=44') }}">
@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="items text-center" data-color>
-                    <a href="collections/all.html" title="Slider 3">
+                    <a href="{{route('collection.all')}}" title="Slider 3">
                         <picture>
                             <source media="(max-width: 480px)"
                                 srcset="{{ asset('assets/theme/200000685745/1001041408/14/slider_36704.jpg?v=44') }}">

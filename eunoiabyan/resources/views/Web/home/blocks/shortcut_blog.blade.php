@@ -4,7 +4,7 @@
     <section class="section_imgtext section style2 ">
         <div class="container card border-0">
             <div class="imgtext_body ">
-                <a class="imgtext_img" href="collections/all.html">
+                <a class="imgtext_img" href="{{route('collection.all')}}">
                     <picture>
                         <source media="(max-width: 991px)"
                             srcset="{{ asset('assets/theme/200000685745/1001041408/14/imgtext_2_img_large.jpg') }}?v=44">

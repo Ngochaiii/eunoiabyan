@@ -8,7 +8,7 @@
                 <div class="col-12 a-left">
                     <ul class="breadcrumb m-0 px-0">
                         <li>
-                            <a href="../index.html" target="_self"><span>Trang chủ</span></a>
+                            <a href="{{route('home')}}" target="_self"><span>Trang chủ</span></a>
                             <span class="mr_lr">&nbsp;/&nbsp;</span>
                         </li>
 
@@ -83,17 +83,7 @@
                                     </div>
                                 </div>
 
-                                <input id='8b2d94ad69254d068a89ff22db69d729' name='g-recaptcha-response' type='hidden'>
-                                <script src='../../www.google.com/recaptcha/api4d7a.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-'></script>
-                                <script>
-                                    grecaptcha.ready(function() {
-                                        grecaptcha.execute('6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-', {
-                                            action: 'submit'
-                                        }).then(function(token) {
-                                            document.getElementById('8b2d94ad69254d068a89ff22db69d729').value = token;
-                                        });
-                                    });
-                                </script>
+                                
                             </form>
                         </div>
                     </div>

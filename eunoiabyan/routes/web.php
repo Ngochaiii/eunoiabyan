@@ -33,6 +33,14 @@ Route::group(['prefix' => ''], function () {
         Route::group(['prefix' => 'news'], function () {
             Route::get('/maika', [DetailBlogController::class, 'maika'])->name('blogs.news.maika');
             Route::get('/kidmodel', [DetailBlogController::class, 'kidmodel'])->name('blogs.news.kidmodel');
+            Route::get('/brand_Eunoia', [DetailBlogController::class, 'brand_Eunoia'])->name('blogs.news.brand_Eunoia');
+            Route::get('/kidmodel_vadete', [DetailBlogController::class, 'kidmodel_vadete'])->name('blogs.news.kidmodel_vadete');
+            Route::get('/show_fashition', [DetailBlogController::class, 'show_fashition'])->name('blogs.news.show_fashition');
+            Route::get('/Eunoia_Wonderland', [DetailBlogController::class, 'Eunoia_Wonderland'])->name('blogs.news.Eunoia_Wonderland');
+            Route::get('/ceo_new', [DetailBlogController::class, 'ceo_new'])->name('blogs.news.ceo_new');
+            Route::get('/ceo_VLA', [DetailBlogController::class, 'ceo_VLA'])->name('blogs.news.ceo_VLA');
+            Route::get('/BST_black', [DetailBlogController::class, 'BST_black'])->name('blogs.news.BST_black');
+            Route::get('/eunoia_by_AN', [DetailBlogController::class, 'eunoia_by_AN'])->name('blogs.news.eunoia_by_AN');
         });
     });
     Route::group(['prefix' => 'introduce'], function () {

@@ -8,7 +8,7 @@
                 <div class="col-12 a-left">
                     <ul class="breadcrumb m-0 px-0">
                         <li>
-                            <a href="{{route('home')}}"  target="_self"><span>Trang chủ</span></a>
+                            <a href="{{route('home')}}" target="_self"><span>Trang chủ</span></a>
                             <span class="mr_lr">&nbsp;/&nbsp;</span>
                         </li>
 
@@ -23,8 +23,6 @@
     </section>
     <section class="blogpage section">
         <div class="containers" itemscope itemtype="https://schema.org/Blog">
-            <meta itemprop="name" content="Tin tức">
-            <meta itemprop="description" content>
             <div class="wrap_background_aside margin-bottom-0">
                 <div class="container">
                     <h1 class="title_page text-center">Tin tức</h1>
@@ -35,23 +33,23 @@
 
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative
+                                        <a class="image-blog card-img-top text-center position-relative 
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
-                                            href="{{route('blogs.news.maika')}}"
-                                            title="Maika kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”"
+                                            href="{{route('blogs.news.ceo_new')}}"
+                                            title="CEO Lan Anh và những dự án truyền cảm hứng nghệ thuật 0 đồng"
                                             style=' --width: 433;
       --height: 231;'>
                                             <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
-                                                src="{{ asset('assets/file.hstatic.net/200000685745/article/maika_2-_708911baf7d543a79ba11a57c5bdb9c0.jpg') }}"
-                                                alt="Maika kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”">
+                                                src="{{asset('assets/file.hstatic.net/200000685745/article/ceo_vu_lan_anh_6_335418b904494936b79fdf1844e2e162.jpg')}} "
+                                                alt="CEO Lan Anh và những dự án truyền cảm hứng nghệ thuật 0 đồng">
                                         </a>
                                         <div class="content_blog clearfix card-body px-0 py-2">
                                             <h3 class>
                                                 <a class='link'
-                                                    href="{{route('blogs.news.maika')}}"
-                                                    title="Maika kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”">Maika
-                                                    kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”</a>
+                                                    href="{{route('blogs.news.ceo_new')}}"
+                                                    title="CEO Lan Anh và những dự án truyền cảm hứng nghệ thuật 0 đồng">CEO
+                                                    Lan Anh và những dự án truyền cảm hứng nghệ thuật 0 đồng</a>
                                             </h3>
                                             <div class="media">
                                                 <div class="media-body">
@@ -59,7 +57,113 @@
                                                         <span>
                                                             <svg class="icon">
                                                                 <use xlink:href="#icon-calendar" />
-                                                            </svg> Th 4 30/11/2022
+                                                            </svg> Th 5 22/09/2022
+                                                        </span>
+                                                        <span class="reading-time">
+                                                            <svg class="icon">
+                                                                <use xlink:href="#icon-clock" />
+                                                            </svg>
+
+                                                            9 phút đọc
+
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="justify">
+                                                <span class="art-summary">
+
+                                                    Gương mặt sáng với nụ cười tươi rói, gặp Lan Anh lần nào cũng cho
+                                                    tôi cảm giác chị luôn tràn đầy năng lượng tích cực...
+
+                                                </span>
+                                                <a class="button_custome_35 link"
+                                                    href="{{route('blogs.news.ceo_new')}}"
+                                                    title="Đọc tiếp">Đọc tiếp</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="blogwp ">
+                                        <a class="image-blog card-img-top text-center position-relative 
+       d-flex align-items-center justify-content-center
+       aspect-ratio rounded overflow-hidden"
+                                            href="{{route('blogs.news.ceo_VLA')}}"
+                                            title="CEO Vũ Lan Anh dành nhiều tâm huyết cho thời trang trẻ em và ươm mầm tài năng nhí"
+                                            style=' --width: 433;
+      --height: 231;'>
+                                            <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
+                                                src="{{asset('assets/file.hstatic.net/200000685745/article/destination_runway_da_nang_18_f626ed5c336d47478ad315dd777372d3.jpg')}} "
+                                                alt="CEO Vũ Lan Anh dành nhiều tâm huyết cho thời trang trẻ em và ươm mầm tài năng nhí">
+                                        </a>
+                                        <div class="content_blog clearfix card-body px-0 py-2">
+                                            <h3 class>
+                                                <a class='link'
+                                                    href="{{route('blogs.news.ceo_VLA')}}"
+                                                    title="CEO Vũ Lan Anh dành nhiều tâm huyết cho thời trang trẻ em và ươm mầm tài năng nhí">CEO
+                                                    Vũ Lan Anh dành nhiều tâm huyết cho thời trang trẻ em và ươm mầm
+                                                    tài năng nhí</a>
+                                            </h3>
+                                            <div class="media">
+                                                <div class="media-body">
+                                                    <div class='art-info text-muted '>
+                                                        <span>
+                                                            <svg class="icon">
+                                                                <use xlink:href="#icon-calendar" />
+                                                            </svg> Th 6 05/08/2022
+                                                        </span>
+                                                        <span class="reading-time">
+                                                            <svg class="icon">
+                                                                <use xlink:href="#icon-clock" />
+                                                            </svg>
+
+                                                            6 phút đọc
+
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="justify">
+                                                <span class="art-summary">
+
+                                                    Chị Vũ Lan Anh là CEO của thương hiệu thời trang Eunoia by AN và
+                                                    trung tâm học tập nghệ thuật và kỹ năng mềm Casa...
+
+                                                </span>
+                                                <a class="button_custome_35 link"
+                                                    href="{{route('blogs.news.ceo_VLA')}}"
+                                                    title="Đọc tiếp">Đọc tiếp</a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="blogwp ">
+                                        <a class="image-blog card-img-top text-center position-relative 
+       d-flex align-items-center justify-content-center
+       aspect-ratio rounded overflow-hidden"
+                                            href="{{route('blogs.news.BST_black')}}"
+                                            title="Eunoia by AN ra mắt bộ sưu tập " Black Swan""
+                                            style=' --width: 433;
+      --height: 231;'>
+                                            <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
+                                                src="{{asset('assets/file.hstatic.net/200000685745/article/destination_runway_da_nang_1_87a9617d431e43d1a00a30cf21f5aa09.jpg')}} "
+                                                alt="Eunoia by AN ra mắt bộ sưu tập " Black Swan"">
+                                        </a>
+                                        <div class="content_blog clearfix card-body px-0 py-2">
+                                            <h3 class>
+                                                <a class='link' href="{{route('blogs.news.BST_black')}}"
+                                                    title="Eunoia by AN ra mắt bộ sưu tập " Black Swan"">Eunoia by AN
+                                                    ra mắt bộ sưu tập "Black Swan"</a>
+                                            </h3>
+                                            <div class="media">
+                                                <div class="media-body">
+                                                    <div class='art-info text-muted '>
+                                                        <span>
+                                                            <svg class="icon">
+                                                                <use xlink:href="#icon-calendar" />
+                                                            </svg> Th 3 12/07/2022
                                                         </span>
                                                         <span class="reading-time">
                                                             <svg class="icon">
@@ -75,12 +179,12 @@
                                             <p class="justify">
                                                 <span class="art-summary">
 
-                                                    Mới đây, Eunoia’s Wonderland Fashion Show đã diễn ra tại Hà Nội
-                                                    nhận được sự chú ý của đông đảo người hâm mộ thời trang. Kết...
+                                                    Thương hiệu Eunoia của AN ra mắt bộ sưu tập “Thiên nga đen” lấy
+                                                    cảm hứng từ vẻ đẹp kiêu sa và bí ẩn của loài...
 
                                                 </span>
                                                 <a class="button_custome_35 link"
-                                                    href="{{route('blogs.news.maika')}}"
+                                                    href="{{route('blogs.news.BST_black')}}"
                                                     title="Đọc tiếp">Đọc tiếp</a>
                                             </p>
                                         </div>
@@ -88,23 +192,24 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative
+                                        <a class="image-blog card-img-top text-center position-relative 
        d-flex align-items-center justify-content-center
        aspect-ratio rounded overflow-hidden"
-                                            href="{{route('blogs.news.kidmodel')}}"
-                                            title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show"
+                                            href="{{route('blogs.news.eunoia_by_AN')}}"
+                                            title="Ấn tượng với BST “Black Swan” mang vẻ đẹp kiêu sa của những chú thiên nga đen đến từ thương hiệu Eunoia by AN"
                                             style=' --width: 433;
       --height: 231;'>
                                             <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
-                                                src="{{ asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_1-_6da473227dc44d60832a5d22a85f0202.jpg') }}"
-                                                alt="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">
+                                                src="{{asset('assets/file.hstatic.net/200000685745/article/black_swan_cover_web_e3a65728cca94f53977db68ed8520b78.jpg')}} "
+                                                alt="Ấn tượng với BST “Black Swan” mang vẻ đẹp kiêu sa của những chú thiên nga đen đến từ thương hiệu Eunoia by AN">
                                         </a>
                                         <div class="content_blog clearfix card-body px-0 py-2">
                                             <h3 class>
                                                 <a class='link'
-                                                    href="{{route('blogs.news.kidmodel')}}"
-                                                    title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">Dàn
-                                                    mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show</a>
+                                                    href="{{route('blogs.news.eunoia_by_AN')}}"
+                                                    title="Ấn tượng với BST “Black Swan” mang vẻ đẹp kiêu sa của những chú thiên nga đen đến từ thương hiệu Eunoia by AN">Ấn
+                                                    tượng với BST “Black Swan” mang vẻ đẹp kiêu sa của những chú thiên
+                                                    nga đen đến từ thương hiệu Eunoia by AN</a>
                                             </h3>
                                             <div class="media">
                                                 <div class="media-body">
@@ -112,14 +217,14 @@
                                                         <span>
                                                             <svg class="icon">
                                                                 <use xlink:href="#icon-calendar" />
-                                                            </svg> Th 2 28/11/2022
+                                                            </svg> Th 4 15/06/2022
                                                         </span>
                                                         <span class="reading-time">
                                                             <svg class="icon">
                                                                 <use xlink:href="#icon-clock" />
                                                             </svg>
 
-                                                            3 phút đọc
+                                                            7 phút đọc
 
                                                         </span>
                                                     </div>
@@ -128,228 +233,12 @@
                                             <p class="justify">
                                                 <span class="art-summary">
 
-                                                    &nbsp;Khoác lên mình những thiết kế thời trang đầy màu sắc, dàn
-                                                    mẫu nhí đã mang đến cho khán giả những phần trình diễn ấn
-                                                    tượng.Dàn...
+                                                    Mới đây, thương hiệu thời trang trẻ em Eunoia by AN đã trình làng
+                                                    BST “Black Swan”. Những thiết kế lộng lẫy, tinh tế, kiêu sa,...
 
                                                 </span>
                                                 <a class="button_custome_35 link"
-                                                    href="{{route('blogs.news.kidmodel')}}"
-                                                    title="Đọc tiếp">Đọc tiếp</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative
-       d-flex align-items-center justify-content-center
-       aspect-ratio rounded overflow-hidden"
-                                            href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
-                                            title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện"
-                                            style=' --width: 433;
-      --height: 231;'>
-                                            <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
-                                                src="{{ asset('assets/file.hstatic.net/200000685745/article/show_nang_thu_resize_web_c4dd6d465aef4b6097fedf2f8ddf4d68.jpg') }}"
-                                                alt="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">
-                                        </a>
-                                        <div class="content_blog clearfix card-body px-0 py-2">
-                                            <h3 class>
-                                                <a class='link'
-                                                    href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
-                                                    title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">Thương
-                                                    hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện</a>
-                                            </h3>
-                                            <div class="media">
-                                                <div class="media-body">
-                                                    <div class='art-info text-muted '>
-                                                        <span>
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-calendar" />
-                                                            </svg> Th 6 18/11/2022
-                                                        </span>
-                                                        <span class="reading-time">
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-clock" />
-                                                            </svg>
-
-                                                            4 phút đọc
-
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <p class="justify">
-                                                <span class="art-summary">
-
-                                                    CEO của thương hiệu Eunoia by AN – Vũ Lan Anh là người dành nhiều
-                                                    tâm huyết cho công tác thiện nguyện.Eunoia by AN là thương...
-
-                                                </span>
-                                                <a class="button_custome_35 link"
-                                                    href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
-                                                    title="Đọc tiếp">Đọc tiếp</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative
-       d-flex align-items-center justify-content-center
-       aspect-ratio rounded overflow-hidden"
-                                            href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
-                                            title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland"
-                                            style=' --width: 433;
-      --height: 231;'>
-                                            <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
-                                                src="{{ asset('assets/file.hstatic.net/200000685745/article/yyy-6663-1669364775_bbcf0825081b463096e39fe20ba3a015.jpg') }}"
-                                                alt="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">
-                                        </a>
-                                        <div class="content_blog clearfix card-body px-0 py-2">
-                                            <h3 class>
-                                                <a class='link'
-                                                    href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
-                                                    title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">Dàn
-                                                    mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland</a>
-                                            </h3>
-                                            <div class="media">
-                                                <div class="media-body">
-                                                    <div class='art-info text-muted '>
-                                                        <span>
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-calendar" />
-                                                            </svg> Th 5 10/11/2022
-                                                        </span>
-                                                        <span class="reading-time">
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-clock" />
-                                                            </svg>
-
-                                                            3 phút đọc
-
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <p class="justify">
-                                                <span class="art-summary">
-
-                                                    Mẫu nhí Ruby Ngọc Anh, An Cát Diệp, Suri Thanh Mai, An Nhi, Maika
-                                                    Ngọc Khánh sẽ trình diễn tại Eunoia’s Wonderland Fashion Show,
-                                                    ngày 26/11.Eunoia...
-
-                                                </span>
-                                                <a class="button_custome_35 link"
-                                                    href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
-                                                    title="Đọc tiếp">Đọc tiếp</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative
-       d-flex align-items-center justify-content-center
-       aspect-ratio rounded overflow-hidden"
-                                            href="news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
-                                            title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland"
-                                            style=' --width: 433;
-      --height: 231;'>
-                                            <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
-                                                src="{{ asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_campaign_ngua_resize_web_44de8126e22541488f3c5c9e2c945b55.jpg') }}"
-                                                alt="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland">
-                                        </a>
-                                        <div class="content_blog clearfix card-body px-0 py-2">
-                                            <h3 class>
-                                                <a class='link'
-                                                    href="news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
-                                                    title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland">Những
-                                                    thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland</a>
-                                            </h3>
-                                            <div class="media">
-                                                <div class="media-body">
-                                                    <div class='art-info text-muted '>
-                                                        <span>
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-calendar" />
-                                                            </svg> Th 3 01/11/2022
-                                                        </span>
-                                                        <span class="reading-time">
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-clock" />
-                                                            </svg>
-
-                                                            3 phút đọc
-
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <p class="justify">
-                                                <span class="art-summary">
-
-                                                    Eunoia’s Wonderland Fashion Show đang được giới mộ điệu thời trang
-                                                    mong chờ khi mang thông điệp về sự khát khao khám phá vẻ đẹp
-                                                    độc...
-
-                                                </span>
-                                                <a class="button_custome_35 link"
-                                                    href="news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
-                                                    title="Đọc tiếp">Đọc tiếp</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="blogwp ">
-                                        <a class="image-blog card-img-top text-center position-relative
-       d-flex align-items-center justify-content-center
-       aspect-ratio rounded overflow-hidden"
-                                            href="news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
-                                            title="Eunoia’s Wonderland Fashion Show mở ra không gian cổ tích ấn tượng"
-                                            style=' --width: 433;
-      --height: 231;'>
-                                            <img loading="lazy" class="img-fluid m-auto mh-100 w-auto"
-                                                src="{{ asset('assets/file.hstatic.net/200000685745/article/thumbail_video_web_2c70753fed9f44a8b4a05004bf9a0741.jpg') }}"
-                                                alt="Eunoia’s Wonderland Fashion Show mở ra không gian cổ tích ấn tượng">
-                                        </a>
-                                        <div class="content_blog clearfix card-body px-0 py-2">
-                                            <h3 class>
-                                                <a class='link'
-                                                    href="news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
-                                                    title="Eunoia’s Wonderland Fashion Show mở ra không gian cổ tích ấn tượng">Eunoia’s
-                                                    Wonderland Fashion Show mở ra không gian cổ tích ấn tượng</a>
-                                            </h3>
-                                            <div class="media">
-                                                <div class="media-body">
-                                                    <div class='art-info text-muted '>
-                                                        <span>
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-calendar" />
-                                                            </svg> Th 3 25/10/2022
-                                                        </span>
-                                                        <span class="reading-time">
-                                                            <svg class="icon">
-                                                                <use xlink:href="#icon-clock" />
-                                                            </svg>
-
-                                                            3 phút đọc
-
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <p class="justify">
-                                                <span class="art-summary">
-
-                                                    Eunoia’s Wonderland Fashion Show do Eunoia Art &amp; Media JSC tổ
-                                                    chức sẽ diễn ra vào ngày 26/11/2022 tại Sheraton Hanoi Hotel (Hà
-                                                    Nội). Đây là...
-
-                                                </span>
-                                                <a class="button_custome_35 link"
-                                                    href="news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
+                                                    href="{{route('blogs.news.eunoia_by_AN')}}"
                                                     title="Đọc tiếp">Đọc tiếp</a>
                                             </p>
                                         </div>
@@ -359,22 +248,22 @@
                                     <nav class="clearfix relative nav_pagi w_100">
                                         <ul class="pagination clearfix float-right">
 
-                                            <li class="page-item disabled"><a class="page-link" href="#"><i
-                                                        class="fa fa-angle-left"></i></a></li>
-
-                                            <li class="active page-item disabled">
-                                                <a class="page-link" href="#">1</a>
+                                            <li class="page-item hidden-xs">
+                                                <a class="page-link" href="{{route('blogs.news')}}" data-page='1'>
+                                                    <i class="fa fa-angle-left" aria-hidden="true"></i>
+                                                </a>
                                             </li>
 
                                             <li class="page-item">
-                                                <a class="page-link" href="news4658.html?page=2" data-page='2'>2</a>
+                                                <a class="page-link" href="{{route('blogs.news')}}" data-page='1'>1</a>
                                             </li>
 
-                                            <li class="page-item hidden-xs">
-                                                <a class="page-link" href="news4658.html?page=2" data-page='2'>
-                                                    <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                                </a>
+                                            <li class="active page-item disabled">
+                                                <a class="page-link" href="#">2</a>
                                             </li>
+
+                                            <li class="page-item disabled"><a class="page-link" href="#"><i
+                                                        class="fa fa-angle-right"></i></a></li>
 
                                         </ul>
                                     </nav>
@@ -390,7 +279,7 @@
                                     <nav class="nav-category navbar-toggleable-md">
                                         <ul class="nav navbar-pills flex-column">
 
-                                            <li class="nav-item"><a class="nav-link link" href="../index.html">Trang
+                                            <li class="nav-item"><a class="nav-link link" href="{{route('home')}}">Trang
                                                     chủ
 
                                                 </a>
@@ -398,7 +287,7 @@
                                             </li>
 
                                             <li class="nav-item ">
-                                                <a href="../collections/all.html" class=" nav-link link ">
+                                                <a href="{{route('collection.all')}}" class=" nav-link link ">
                                                     Sản phẩm
                                                 </a>
                                                 <i class="fa fa-caret-down"></i>
@@ -406,7 +295,7 @@
 
                                                     <li class="nav-item">
                                                         <a class="nav-link link"
-                                                            href="../#">BST
+                                                            href="{{route('collection.nangtho')}}">BST
                                                             Nàng Thơ
 
                                                         </a>
@@ -414,7 +303,7 @@
 
                                                     <li class="nav-item">
                                                         <a class="nav-link link"
-                                                            href="../collections/bst-black-swan.html">BST Black Swan
+                                                            href="{{route('collection.black')}}">BST Black Swan
 
                                                         </a>
                                                     </li>
@@ -422,21 +311,21 @@
                                                 </ul>
                                             </li>
 
-                                            <li class="nav-item"><a class="nav-link link" href="news.html">Blog
+                                            <li class="nav-item"><a class="nav-link link" href="{{route('blogs.news')}}">Blog
 
                                                 </a>
 
                                             </li>
 
                                             <li class="nav-item"><a class="nav-link link"
-                                                    href="../pages/about-us.html">Giới thiệu
+                                                    href="{{route('introduce')}}">Giới thiệu
 
                                                 </a>
 
                                             </li>
 
                                             <li class="nav-item"><a class="nav-link link"
-                                                    href="../pages/lien-he.html">Liên hệ
+                                                    href="{{route('contact')}}">Liên hệ
 
                                                 </a>
 
@@ -449,7 +338,7 @@
 
                             <div class="blog-aside aside-item blog-aside-article">
                                 <div class="aside-title">
-                                    <h2 class="title-head"><span><a class="link" href="news.html"
+                                    <h2 class="title-head"><span><a class="link" href="{{route('blogs.news')}}"
                                                 title="Tin nổi bật">Tin nổi bật</a></span></h2>
                                 </div>
                                 <div class="aside-content-article aside-content margin-top-0">
@@ -461,7 +350,7 @@
                                                 href="{{route('blogs.news.maika')}}"
                                                 title="Maika kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”">
                                                 <img loading="lazy" class="img-fluid"
-                                                    src="{{ asset('assets/file.hstatic.net/200000685745/article/maika_2-_708911baf7d543a79ba11a57c5bdb9c0_medium.jpg') }}"
+                                                    src="{{asset('assets/file.hstatic.net/200000685745/article/maika_2-_708911baf7d543a79ba11a57c5bdb9c0_medium.jpg')}} "
                                                     alt="Maika kết bộ sưu tập nhà Eunoia by AN bằng lời ca “A Whole New World”">
                                             </a>
 
@@ -479,17 +368,17 @@
                                         <div class="blogwp clearfix media">
 
                                             <a class="image-blog text-center mr-2 mr-md-3"
-                                                href="{{route('blogs.news.kidmodel')}}"
+                                                href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                                 title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">
                                                 <img loading="lazy" class="img-fluid"
-                                                    src="{{ asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_1-_6da473227dc44d60832a5d22a85f0202_medium.jpg') }}"
+                                                    src="{{asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_1-_6da473227dc44d60832a5d22a85f0202_medium.jpg')}} "
                                                     alt="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">
                                             </a>
 
                                             <div class="content_blog clearfix media-body ">
                                                 <h3 class='mt-0 mb-1'>
                                                     <a class='link'
-                                                        href="{{route('blogs.news.kidmodel')}}"
+                                                        href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                                         title="Dàn mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion show">Dàn
                                                         mẫu nhí chân trần trình diễn tại Eunoia’s Wonderland Fashion
                                                         show</a>
@@ -501,17 +390,17 @@
                                         <div class="blogwp clearfix media">
 
                                             <a class="image-blog text-center mr-2 mr-md-3"
-                                                href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                                href="{{route('blogs.news.brand_Eunoia')}}"
                                                 title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">
                                                 <img loading="lazy" class="img-fluid"
-                                                    src="{{ asset('assets/file.hstatic.net/200000685745/article/show_nang_thu_resize_web_c4dd6d465aef4b6097fedf2f8ddf4d68_medium.jpg') }}"
+                                                    src="{{asset('assets/file.hstatic.net/200000685745/article/show_nang_thu_resize_web_c4dd6d465aef4b6097fedf2f8ddf4d68_medium.jpg')}} "
                                                     alt="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">
                                             </a>
 
                                             <div class="content_blog clearfix media-body ">
                                                 <h3 class='mt-0 mb-1'>
                                                     <a class='link'
-                                                        href="news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                                        href="{{route('blogs.news.brand_Eunoia')}}"
                                                         title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">Thương
                                                         hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện</a>
                                                 </h3>
@@ -522,17 +411,17 @@
                                         <div class="blogwp clearfix media">
 
                                             <a class="image-blog text-center mr-2 mr-md-3"
-                                                href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                                href="{{route('blogs.news.kidmodel_vadete')}}"
                                                 title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">
                                                 <img loading="lazy" class="img-fluid"
-                                                    src="{{ asset('assets/file.hstatic.net/200000685745/article/yyy-6663-1669364775_bbcf0825081b463096e39fe20ba3a015_medium.jpg') }}"
+                                                    src="{{asset('assets/file.hstatic.net/200000685745/article/yyy-6663-1669364775_bbcf0825081b463096e39fe20ba3a015_medium.jpg')}} "
                                                     alt="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">
                                             </a>
 
                                             <div class="content_blog clearfix media-body ">
                                                 <h3 class='mt-0 mb-1'>
                                                     <a class='link'
-                                                        href="news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                                        href="{{route('blogs.news.kidmodel_vadete')}}"
                                                         title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">Dàn
                                                         mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland</a>
                                                 </h3>
@@ -550,5 +439,4 @@
             </div>
         </div>
     </section>
-    <div class="ab-module-article-mostview"></div>
 @endsection

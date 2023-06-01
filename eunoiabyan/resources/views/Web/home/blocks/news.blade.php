@@ -3,7 +3,7 @@
         <div class='container'>
             <div class="title_module_main" style='background-color: #66b1d0'>
                 <h2 class="heading-bar__title" style='color: #ffffff'>
-                    <a class='link' href="blogs/news.html" title="TIN TỨC">TIN TỨC</a>
+                    <a class='link' href="{{route('blogs.news')}}" title="TIN TỨC">TIN TỨC</a>
                 </h2>
             </div>
             <div class='section__blogs'>
@@ -85,7 +85,7 @@
                                 </div>
                             </div>
                             <div class="blogwp clearfix media"> <a class="image-blog text-center mr-2 mr-md-3"
-                                    href="blogs/news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                    href="{{route('blogs.news.brand_Eunoia')}}"
                                     title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">
                                     <img loading="lazy" class="img-fluid"
                                         src="{{ asset('assets/file.hstatic.net/200000685745/article/show_nang_thu_resize_web_c4dd6d465aef4b6097fedf2f8ddf4d68_medium.jpg') }}"
@@ -94,7 +94,7 @@
                                 <div class="content_blog clearfix media-body ">
                                     <h3 class='mt-0 mb-1'>
                                         <a class='link'
-                                            href="blogs/news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                            href="{{route('blogs.news.brand_Eunoia')}}"
                                             title="Thương hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện">Thương
                                             hiệu Eunoia by AN lan tỏa yêu thương với loạt dự án thiện nguyện</a>
                                     </h3>
@@ -108,12 +108,12 @@
                                     <p class="justify lead d-none d-md-block "> CEO của thương hiệu Eunoia by AN – Vũ
                                         Lan Anh là người dành nhiều
                                         tâm huyết cho công tác... <a class="button_custome_35 link"
-                                            href="blogs/news/eunoia-by-an-lan-toa-yeu-thuong-voi-loat-du-an-thien-nguyen.html"
+                                            href="{{route('blogs.news.brand_Eunoia')}}"
                                             title="Đọc tiếp">Đọc tiếp</a> </p>
                                 </div>
                             </div>
                             <div class="blogwp clearfix media"> <a class="image-blog text-center mr-2 mr-md-3"
-                                    href="blogs/news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                    href="{{route('blogs.news.kidmodel_vadete')}}"
                                     title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">
                                     <img loading="lazy" class="img-fluid"
                                         src="{{ asset('assets/file.hstatic.net/200000685745/article/yyy-6663-1669364775_bbcf0825081b463096e39fe20ba3a015_medium.jpg') }}"
@@ -122,7 +122,7 @@
                                 <div class="content_blog clearfix media-body ">
                                     <h3 class='mt-0 mb-1'>
                                         <a class='link'
-                                            href="blogs/news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                            href="{{route('blogs.news.kidmodel_vadete')}}"
                                             title="Dàn mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland">Dàn
                                             mẫu nhí diễn mở màn và Vedette show Eunoia’s Wonderland</a>
                                     </h3>
@@ -136,12 +136,12 @@
                                     <p class="justify lead d-none d-md-block "> Mẫu nhí Ruby Ngọc Anh, An Cát Diệp, Suri
                                         Thanh Mai, An Nhi, Maika
                                         Ngọc Khánh sẽ trình diễn tại... <a class="button_custome_35 link"
-                                            href="blogs/news/dan-mau-nhi-dien-mo-man-va-vedette-show-eunoia-s-wonderland.html"
+                                            href="{{route('blogs.news.kidmodel_vadete')}}"
                                             title="Đọc tiếp">Đọc tiếp</a> </p>
                                 </div>
                             </div>
                             <div class="blogwp clearfix media"> <a class="image-blog text-center mr-2 mr-md-3"
-                                    href="blogs/news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
+                                    href="{{route('blogs.news.show_fashition')}}"
                                     title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland">
                                     <img loading="lazy" class="img-fluid"
                                         src="{{ asset('assets/file.hstatic.net/200000685745/article/eunoia_s_wonderland_campaign_ngua_resize_web_44de8126e22541488f3c5c9e2c945b55_medium.jpg') }}"
@@ -150,7 +150,7 @@
                                 <div class="content_blog clearfix media-body ">
                                     <h3 class='mt-0 mb-1'>
                                         <a class='link'
-                                            href="blogs/news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
+                                            href="{{route('blogs.news.show_fashition')}}"
                                             title="Những thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland">Những
                                             thiên thần nhỏ trong show thời trang cổ tích Eunoia’s Wonderland</a>
                                     </h3>
@@ -164,12 +164,12 @@
                                     <p class="justify lead d-none d-md-block "> Eunoia’s Wonderland Fashion Show đang
                                         được giới mộ điệu thời trang
                                         mong chờ khi mang thông điệp về sự khát... <a class="button_custome_35 link"
-                                            href="blogs/news/nhung-thien-than-nho-trong-show-thoi-trang-co-tich-eunoia-s-wonderland.html"
+                                            href="{{route('blogs.news.show_fashition')}}"
                                             title="Đọc tiếp">Đọc tiếp</a> </p>
                                 </div>
                             </div>
                             <div class="blogwp clearfix media"> <a class="image-blog text-center mr-2 mr-md-3"
-                                    href="blogs/news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
+                                    href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                     title="Eunoia’s Wonderland Fashion Show mở ra không gian cổ tích ấn tượng">
                                     <img loading="lazy" class="img-fluid"
                                         src="{{ asset('assets/file.hstatic.net/200000685745/article/thumbail_video_web_2c70753fed9f44a8b4a05004bf9a0741_medium.jpg') }}"
@@ -178,7 +178,7 @@
                                 <div class="content_blog clearfix media-body ">
                                     <h3 class='mt-0 mb-1'>
                                         <a class='link'
-                                            href="blogs/news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
+                                            href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                             title="Eunoia’s Wonderland Fashion Show mở ra không gian cổ tích ấn tượng">Eunoia’s
                                             Wonderland Fashion Show mở ra không gian cổ tích ấn tượng</a>
                                     </h3>
@@ -193,7 +193,7 @@
                                         Eunoia Art &amp; Media JSC tổ
                                         chức sẽ diễn ra vào ngày 26/11/2022 tại Sheraton... <a
                                             class="button_custome_35 link"
-                                            href="blogs/news/eunoia-s-wonderland-fashion-show-mo-ra-khong-gian-co-tich-an-tuong.html"
+                                            href="{{route('blogs.news.Eunoia_Wonderland')}}"
                                             title="Đọc tiếp">Đọc tiếp</a> </p>
                                 </div>
                             </div>
